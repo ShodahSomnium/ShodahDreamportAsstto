@@ -1,0 +1,90 @@
+# polish pass 2026-11-01: 0-100 (s) per car. base = psim (autoclutch launch in the MIN..MAX_RPM window, auto shifter CHANGE_UP_TIME + GAS_CUTOFF_TIME, factory TC);
+# instant = PSIM_SHIFT0 (10 ms shifts, no cut); manual = PSIM_HUMAN+SHIFT0 (clutch slipped at 55% of the limiter, traction-limited launch, instant shifts);
+# ideal = pideal (analytic: lut wheel torque x max boost, peak tyre Fx, all inertias, instant shifts, no core model); ui = ui_car.json (reference only)
+car                                  base instant manual  ideal    ui base/ui ideal/ui
+abarth500                            8.84   7.62   7.45   7.24   7.4   1.19   0.98
+abarth500_s1                         8.61   7.43   7.18   6.90   7.4   1.16   0.93
+ks_abarth_595ss                     23.04  22.20  21.77  22.08  25.8   0.89   0.86
+ks_abarth_595ss_s1                  22.01  21.13  20.63  21.01  25.8   0.85   0.81
+ks_abarth_595ss_s2                  13.28  12.33  11.38  11.71     -
+ks_alfa_33_stradale                  7.30   6.89   6.07   6.93     -
+ks_alfa_giulia_qv                    5.74   5.03   4.93   4.41   3.9   1.47   1.13
+ks_alfa_mito_qv                      8.98   7.89   7.82   7.29   7.3   1.23   1.00
+ks_audi_r8_plus                      4.00   3.78   3.66   3.68   3.5   1.14   1.05
+ks_audi_a1s1                         7.46   6.74   6.55   5.38   5.8   1.29   0.93
+ks_audi_sport_quattro                6.11   5.09   5.22   4.97   4.7   1.30   1.06
+ks_audi_sport_quattro_rally          3.59   3.31   3.23   2.70   3.1   1.16   0.87
+ks_audi_sport_quattro_s1             5.42   4.73   4.78   4.05   4.5   1.20   0.90
+bmw_1m                               5.55   4.99   5.11   4.97   4.9   1.13   1.01
+bmw_1m_s3                            5.99   5.29   4.82   4.47     -
+bmw_m3_e30                           7.55   6.92   6.60   6.79   7.4   1.02   0.92
+bmw_m3_e30_drift                     5.62   4.88   4.97   4.75   5.3   1.06   0.90
+bmw_m3_e30_dtm                       6.39   5.87   5.07   5.66   4.3   1.49   1.32
+bmw_m3_e30_gra                       6.15   5.25   4.84   5.25   4.3   1.43   1.22
+bmw_m3_e30_s1                        7.56   6.93   6.61   6.79   7.4   1.02   0.92
+bmw_m3_e92                           5.12   5.03   5.26   5.26   4.3   1.19   1.22
+bmw_m3_e92_drift                     5.84   5.07   5.26   5.26   4.3   1.36   1.22
+bmw_m3_e92_s1                        5.12   5.04   5.25   5.28   4.3   1.19   1.23
+bmw_m3_gt2                           4.01   3.57   3.80   3.57     -
+bmw_z4                               5.72   5.21   5.44   5.14   4.7   1.22   1.09
+bmw_z4_drift                         5.11   4.67   4.73   4.32     -
+bmw_z4_s1                            5.95   5.51   5.61   5.25   4.7   1.27   1.12
+bmw_z4_gt3                           4.32   3.93   3.83   3.76     -
+ks_corvette_c7_stingray              4.94   4.72   4.52   4.23   3.8   1.30   1.11
+ferrari_312t                         4.26   4.00   3.32   3.94     -
+ferrari_458_gt2                      4.24   4.05   3.84   3.89     -
+ferrari_458                          4.11   3.95   4.08   3.89   3.3   1.25   1.18
+ferrari_458_s3                       3.47   3.31   3.45   3.29     -
+ferrari_599xxevo                     3.50   3.28   3.49   3.47   2.5   1.40   1.39
+ferrari_f40                          5.37   4.59   4.45   3.93   3.5   1.53   1.12
+ferrari_f40_s3                       5.09   4.19   3.84   3.40     -
+ferrari_laferrari                    3.86   3.80   3.51   3.38   3.0   1.29   1.13
+ks_ford_mustang_2015                 5.90   5.00   5.26   4.87   4.4   1.34   1.11
+alfa_romeo_giulietta_qv              7.74   6.71   6.98   6.11   6.6   1.17   0.93
+alfa_romeo_giulietta_qv_le           7.53   6.68   6.99   6.02   6.0   1.26   1.00
+ktm_xbow_r                           5.33   4.81   5.03   3.93   3.7   1.44   1.06
+ks_lamborghini_huracan_performante   3.16   3.13   2.98   3.13   2.9   1.09   1.08
+ks_lamborghini_miura_sv              7.35   6.85   5.67   6.82   6.5   1.13   1.05
+ks_lamborghini_sesto_elemento        3.44   3.25   3.39   2.85   2.5   1.38   1.14
+lotus_2_eleven                       5.25   4.71   4.75   4.67   3.8   1.38   1.23
+lotus_2_eleven_gt4                   4.70   4.26   4.27   4.42   3.7   1.27   1.19
+lotus_98t                            3.10   2.78   2.99   2.60     -
+lotus_elise_sc                       7.04   6.53   6.12   6.15   4.6   1.53   1.34
+lotus_elise_sc_s1                    7.03   6.52   6.14   6.15   4.6   1.53   1.34
+lotus_elise_sc_s2                    8.12   6.52   6.14   6.15   4.6   1.77   1.34
+lotus_evora_gtc                      4.58   4.37   3.75   4.11     -
+lotus_evora_gte                      5.08   4.60   4.64   4.51   4.5   1.13   1.00
+lotus_evora_gte_carbon               4.87   4.38   4.49   4.35   4.4   1.11   0.99
+lotus_evora_gx                       4.70   4.50   4.03   4.08   4.5   1.04   0.91
+lotus_evora_s                        5.89   5.38   5.30   4.95   4.6   1.28   1.08
+lotus_evora_s_s2                     5.69   5.17   5.12   4.75   4.6   1.24   1.03
+lotus_exige_240                      6.53   6.04   5.69   5.67   4.0   1.63   1.42
+lotus_exige_240_s3                   5.69   5.15   5.04   4.98   4.0   1.42   1.25
+lotus_exige_s                        5.31   4.72   4.87   4.57   4.0   1.33   1.14
+lotus_exige_s_roadster               4.88   4.39   4.52   4.45   4.0   1.22   1.11
+lotus_exige_scura                    5.81   5.27   5.18   5.23   4.1   1.42   1.28
+lotus_exige_v6_cup                   5.15   4.50   4.71   4.49   4.0   1.29   1.12
+lotus_exos_125                       3.59   3.62   2.67   3.24     -
+lotus_exos_125_s1                    2.84   2.87   2.78   2.84     -
+lotus_49                             3.88   3.20   3.02   3.37     -
+ks_maserati_alfieri                  4.89   4.58   4.81   4.47     -
+ks_maserati_levante                  5.67   5.46   5.36   4.64   5.0   1.13   0.93
+ks_maserati_quattroporte             5.58   5.09   5.23   4.41   4.7   1.19   0.94
+ks_mazda_787b                        4.77   4.61   3.45   4.27     -
+ks_mazda_miata                      10.69   9.68   8.99   9.56   8.8   1.21   1.09
+mclaren_mp412c                       4.71   4.40   4.27   3.79   3.2   1.47   1.18
+mclaren_mp412c_gt3                   4.28   3.95   3.88   3.64     -
+mercedes_sls                         4.50   4.31   4.38   4.11   3.8   1.18   1.08
+mercedes_sls_gt3                     4.18   3.98   3.83   3.76     -
+ks_nissan_gtr                        4.27   4.12   3.48   3.40   2.1   2.03   1.62
+pagani_huayra                        4.48   4.24   4.14   3.16   2.7   1.66   1.17
+ks_pagani_huayra_bc                  4.71   4.38   4.35   3.47     -
+pagani_zonda_r                       3.93   3.48   3.57   3.21   2.7   1.46   1.19
+ks_porsche_cayenne                   4.49   4.15   4.00   3.62   4.1   1.10   0.88
+ks_porsche_macan                     5.54   5.22   5.05   4.42   4.8   1.15   0.92
+ks_porsche_panamera                  5.01   4.68   4.48   3.53   3.6   1.39   0.98
+ruf_yellowbird                       4.96   4.33   4.15   3.70   4.0   1.24   0.93
+shelby_cobra_427sc                   4.89   4.18   4.38   4.46   4.3   1.14   1.04
+tatuusfa1                            3.96   3.50   3.48   3.18     -
+ks_toyota_gt86                       8.86   7.99   7.70   7.65   7.6   1.17   1.01
+fleet mean ratio vs ui (n 64): base 1.280  instant shifts 1.166  manual launch + instant 1.146  analytic ideal 1.089

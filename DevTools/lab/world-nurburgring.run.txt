@@ -1,0 +1,97 @@
+lab 'world-nurburgring' in slot A (D:\Dreamport\Assetta Corsa)
+unity exit 0 (slot A)
+[SomniumAssetto] Access: editor: the whitelist (6 name(s)) is not applied
+[SomniumAssetto] Assetto Corsa Dreamport - iteration 1 (2026-11-01): first playable build: tablet app, showroom hub, tracks, cars, seat + VR wheel, physics, sound, HUD, race flow, AI, multiplayer
+[SomniumAssetto] Shaders carried: SomniumAssetto/PerPixel, SomniumAssetto/Multilayer, SomniumAssetto/Sky, TextMeshPro/Mobile/Distance Field, TextMeshPro/Distance Field
+[SomniumAssetto] Isolation: up (whitelisted: other whitelisted players): players not on the whitelist (a visitor) are hidden (after 0.5 s, shown after 0 s is on the whitelist (a Dreamport player); first decision at once; renderers forceRenderingOff, tag alpha, colliders, voices volume 0, other sounds muted); warm-up scan of 0 scene(s) 2.08 ms, 0 avatar/item root(s)
+[SomniumAssetto] Editor: no EventSystem in the scene - added one with a StandaloneInputModule.
+[SomniumAssetto] Shader 'Universal Render Pipeline/Lit': Shader.Find
+[SomniumAssetto] Front: the hub's RACE LOBBY page was built in 31 ms.
+[SomniumAssetto] Tablet: searching for the Somnium tablet (the "ASSETTO CORSA" app goes on its home screen; the hub panel stays the menu too).
+[SomniumAssetto] Front: the showroom hub and its menu are up (whitelisted player); the tablet app is searching.
+[SomniumAssetto] Net: started (Fusion session, protocol 2); alone or offline everything stays local
+[SomniumAssetto] Race: conductor up (Assetto Corsa Dreamport - iteration 1 (2026-11-01))
+[SomniumAssetto] Seat: started (seat writes at -90 / 9000 / 10000, monitor avatar carry 9990, poses 9997; vr no; horizon lock on; the Somnium tablet stays usable while seated - B / Y are not ours - and the VR pedals disarm while it is used).
+[SomniumAssetto] Hud: started (waits for the install to load the HUD art)
+[SomniumAssetto] Tags: on - the Somnium name tags of the other Somnium players in this world are hidden while the Dreamport runs, given back when you leave (the Bridge's ISomniumPlayerInfo.SetPlayerTagDisableState - unproven, first used here; fallback ready: the tag's CanvasGroup alpha; re-applied every 1 s; visitors are left to the isolation)
+[SomniumAssetto] Boot: install E:\SteamLibrary\steamapps\common\assettocorsa, 86 owned cars (176 listed), 35 playable layouts (21 tracks; found in 0 ms, scanned in 301 ms)
+[SomniumAssetto] Shader 'TextMeshPro/Mobile/Distance Field': carried
+[SomniumAssetto] Shader 'TextMeshPro/Distance Field': carried
+[SomniumAssetto] Fonts: Segoe UI built from segoeui.ttf, segoeuil_0.ttf, seguisb.ttf from E:\SteamLibrary\steamapps\common\assettocorsa\content\fonts (shader TextMeshPro/Mobile/Distance Field); 144 texts switched to it.
+[SomniumAssetto] Audio: started (car banks from the install, worker thread, 131072 floats/frame upload)
+[SomniumAssetto] Track: time / weather defaults from Documents/Assetto Corsa/cfg/race.ini: SUN_ANGLE -48 (10:00), weather 4_mid_clear
+[SomniumAssetto] Front: audio preloaded and the TRACK / AUDIO settings rows asked for at boot (23 -> 32 rows).
+[SomniumAssetto] Front: hub light from system/cfg/colorCurves.ini (as acShowroom.exe) (boot): sun 3.81,3.69,3.34, ambient 0.94,1.15,1.39, sky 0.21,0.49,0.98/0.78,0.88,1.11, elevation 52 deg.
+[SomniumAssetto] Race: defaults laps 5, qualify 10 min, RACE_OVER_TIME 180 s, ALLOWED_TYRES_OUT 2, ABS 1, TC 1, OVER_TIME_MULT 1.2, QUALIFY_MAX_WAIT_PERC 120, START_RULE 0 -> jump start penalty 0, [PRACTICE] TIME 10 (practice stays open-ended) (server/cfg/server_cfg.ini + server/presets/SERVER_00/server_cfg.ini + system/cfg/assetto_corsa.ini)
+[SomniumAssetto] Front: the game's ui read - 558 words (system/locales), skin.ini read, launcher accent 189,0,0,255 (236 uses in the css), assists from C:\Users\derii\Documents\Assetto Corsa\cfg\assists.ini, lobby sliders from launcher/themes/default/index.html (7/7 sliders) (laps 2..100 step 1, minutes 5..90 step 5, AI 80..100 step 1, damage 0..100 step 10, fuel values 0,1, tyre wear values 0,1,2,3)
+[SomniumAssetto] Front: drive choice abarth500/0_white_scorpion (remembered, race took it)
+[SomniumAssetto] Tablet: the app icon carries the launcher's logo (E:\SteamLibrary\steamapps\common\assettocorsa\launcher\themes\default\graphics\logo.png).
+[SomniumAssetto] Audio: UI sounds from the install (gui_click.wav 44100 Hz 2 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (select2.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (select3.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (negative.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (item.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (bighit.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (camera_click.wav 48000 Hz 2 ch first)
+[SomniumAssetto] Audio: common.bank bank: 29 samples (41.7 MB PCM), events found [collisions/car/hit collisions/car/scrape collisions/object/hit collisions/track/hit collisions/track/scrape common/ambience common/dirt common/ds_protection common/screw common/unscrew surfaces/extraturf surfaces/grass surfaces/gravel surfaces/kerb surfaces/old surfaces/sand surfaces/tyre_rolling], 2 multi instruments, 15 events 3D by their spatialiser, effects [hit: three-eq; scrape: three-eq; dirt: three-eq; gravel: three-eq; kerb: three-eq] in 34 ms
+[SomniumAssetto] Audio: common.bank: 29 samples, 17 events; start beep event:/common/ds_protection (beep), ambience ambient1 (loop region)
+LAB: booted: Assetto Corsa found: E:\SteamLibrary\steamapps\common\assettocorsa  -  86 cars, 35 track layouts
+LAB: ok   layout ks_nurburgring/layout_gp_a is installed
+[SomniumAssetto] Front: first menu picture decoded from the install (logo.png, 110x91).
+[SomniumAssetto] Audio: clips built for common.bank (1 clips, 0.0 MB, cache hits 0) in 0.0 s
+[SomniumAssetto] Hud: art loaded (29 images, fonts: Segoe UI shared with the tablet (segoeui.ttf, segoeuil_0.ttf, seguisb.ttf from E:\SteamLibrary\steamapps\common\assettocorsa\content\fonts (shader TextMeshPro/Mobile/Distance Field)), bitmap arial_big (94 glyphs, 4096x64, max U 0.896); config: 6 files, language en (313 strings), USE_MPH 0, TIME_DIFFERENCE 1)
+[SomniumAssetto] Hud: units km/h (AC gameplay.ini USE_MPH), standings default on ([OVERLAY_LEADERBOARD] ACTIVE 3), session box practice/qualify/race 1/1/1, join/leave messages 1/1
+[SomniumAssetto] Shader 'SomniumAssetto/PerPixel': carried
+[SomniumAssetto] Kn5: built showroom.kn5: 7 renderers, 4990 tris, 0 colliders, 4 textures read (0 from the skin, mips made 0, failed 0), prepare 30 ms, upload 148 ms
+[SomniumAssetto] Front: showroom built (content/showroom/showroom/showroom.kn5: 7 renderers, 4 textures, read 530 ms, built 192 ms).
+[SomniumAssetto] Kn5: built abarth500.kn5: 182 renderers, 114873 tris, 0 colliders, 72 textures read (4 from the skin, mips made 40, failed 0), prepare 118 ms, upload 53 ms
+[SomniumAssetto] Shader 'Sprites/Default': Shader.Find
+[SomniumAssetto] Car: font digital_mid (94 glyphs, 2048x32, max U 0.694) loaded for cockpit displays
+[SomniumAssetto] Car: font e92_big (94 glyphs, 4096x64, max U 0.864) loaded for cockpit displays
+[SomniumAssetto] Car: built abarth500/0_white_scorpion LOD 0 in 288 ms (worker 29 ms; 182 meshes, 114873 tris, textures 43.1 MB uploaded (38.4 MB in the kn5), hull 0 colliders, doors L/R, steer yes r 0.198, lights 5, needles 3, leds 19, displays 4, blur 8, driver no, interior yes, passenger seat yes, W nodes 275, damage normals flat 1)
+[SomniumAssetto] Physics: rig abarth500 (Showroom) built in 406 ms: model True, hull colliders 0, physics False, audio False
+[SomniumAssetto] Front: showroom car abarth500/0_white_scorpion on the floor.
+LAB: hub settled after 0.3 s (showroom True, car True)
+[SomniumAssetto] Front: lobby rules seeded from AcRace.DefaultRules (R: server/cfg/server_cfg.ini once the install is read) (Practice, 10 min, ABS 1, TC 1, tyres out 2, AI 0).
+[SomniumAssetto] Track: the scene's directional light(s) switched off while a track is loaded (2, first 'Directional Light'); Ac Sun lights the track
+[SomniumAssetto] Shader 'SomniumAssetto/Sky': carried
+[SomniumAssetto] Track: look: weather 4_mid_clear, sun pitch 25 heading 45 angle -48 -> elevation 37 deg, sun (4.93,4.15,3.29), ambient (1.53,1.53,1.53), sky (0.10,0.26,0.58)/(0.61,0.65,0.79), fog (0.57,0.74,1.00) blend 0.75 distance 8000 m (time Documents/Assetto Corsa/cfg/race.ini, weather Documents/Assetto Corsa/cfg/race.ini)
+[SomniumAssetto] Track: loading ks_nurburgring/layout_gp_a: 8 kn5, 1222 meshes (1007 drawn, 368 colliders, 60 marker cubes hidden, 0 inactive), 152 textures, 2500979 vertices; scan 754 ms
+[SomniumAssetto] Track: markers: 24 grid, 24 pits, gates 3, hotlap yes, start lights 5, fast lane 3307 points 5078 m, pit lane 1125 points, pole progress 0.9991
+[SomniumAssetto] Shader 'SomniumAssetto/Multilayer': carried
+[SomniumAssetto] Track: start lights 5 (KS_START_LIGHT_0..4), emissive 2,0,0 diffuse 0.3, lamp 0 (1 panel(s)) 71 m from the pole, ahead-dot 1.00, faces the pole 1.00
+[SomniumAssetto] Track: built ks_nurburgring/layout_gp_a in 2.3 s (1007 meshes, 2349070 tris, 152 textures 255 MB, mesh data 121 MB, 368 colliders, 13 walls, surfaces matched 355/unmatched 0, LOD-managed 800, mips made 141, shadows kn5 castShadows; worker 2288 ms, cooking baked off the main thread: 368, worst frame so far 32 ms, managed heap 223 -> 155 MB)
+[SomniumAssetto] Track: ready ks_nurburgring/layout_gp_a: worst frame after 1 s 32 ms (textures), allocated 771 -> 1171 MB, graphics driver 519 MB, track needs far plane 6000 m, player camera not found yet
+LAB: load 100% Ready
+LAB: ok   track built in 2.3 s
+LAB: worst load frame after 1 s: 32 ms (textures)
+LAB: far plane: track wants 6000 m, player camera none in the lab, drawn bounds (25645, 583, 25645)
+LAB: ok   grid slots 24 (expected 24)
+LAB: ok   start lights 5 (expected 5)
+LAB: ok   fast lane present (3307 points)
+LAB: ok   avatar layer 2 collides with track layer 14
+LAB: ok   surface tags registered: 368
+LAB: ok   a tagged surface under every grid slot / pit box (48/48, highest marker 2.99 m above the road)
+LAB: ok   pit boxes on an IS_PITLANE surface: 24/24
+LAB: ok   TryGround under the pole slot
+LAB: picture D:/Dreamport/Assetta Corsa/DevTools/lab/world-nurburgring\grid.png average 0.45,0.46,0.52
+LAB: picture D:/Dreamport/Assetta Corsa/DevTools/lab/world-nurburgring\grid_behind.png average 0.47,0.49,0.54
+LAB: picture D:/Dreamport/Assetta Corsa/DevTools/lab/world-nurburgring\above.png average 0.52,0.51,0.46
+LAB: picture D:/Dreamport/Assetta Corsa/DevTools/lab/world-nurburgring\far_view.png average 0.41,0.46,0.54
+LAB: ok   start light 0 panel 71 m from the pole, ahead-dot 1.00, faces the pole 1.00 (1 panel(s); T5 models.ini ROTATION)
+LAB: picture D:/Dreamport/Assetta Corsa/DevTools/lab/world-nurburgring\lights_off.png average 0.45,0.48,0.56
+LAB: picture D:/Dreamport/Assetta Corsa/DevTools/lab/world-nurburgring\lights_3red.png average 0.45,0.48,0.56
+LAB: picture D:/Dreamport/Assetta Corsa/DevTools/lab/world-nurburgring\lights_out_green.png average 0.45,0.48,0.56
+LAB: picture D:/Dreamport/Assetta Corsa/DevTools/lab/world-nurburgring\lights_all_red_wide.png average 0.48,0.51,0.59
+LAB: picture D:/Dreamport/Assetta Corsa/DevTools/lab/world-nurburgring\billboard_trees_new.png average 0.34,0.35,0.35
+[SomniumAssetto] World: default light from weather 4_mid_clear (sun (5.10,4.22,3.29), ambient (1.56,1.56,1.56))
+[SomniumAssetto] Track: unloaded ks_nurburgring/layout_gp_a (freed ~255 MB textures, 121 MB meshes; managed heap 154 -> 132 MB, material scopes left 2)
+[SomniumAssetto] Track: memory after unloading ks_nurburgring/layout_gp_a: allocated 1176 -> 776 MB (before the load 771 MB), graphics driver 545 -> 184 MB, managed heap 154 -> 132 MB
+LAB: ok   unloaded
+LAB: ok   surface tags cleared (0)
+LAB: ok   track material scope released (3 -> 2)
+LAB: ok   allocated memory 771 MB before, 1171 MB built, 776 MB after the unload (5 MB left of 400 MB)
+LAB: done (passed)
+[SomniumAssetto] Net: stopped (slot written free)
+[SomniumAssetto] Isolation: shutdown: restored 0 hidden player(s); isolation (whitelisted: other whitelisted players): 0 tracked, 0 hidden, 0 sweeps (last 0.00 ms, max 0.00 ms), slowest hide 0.00 ms, slowest frame 0.86 ms, no voice pass yet
+[SomniumAssetto] Tags: off (leaving the world) - 0 player tag(s) given back; tags not hidden (Bridge SetPlayerTagDisableState): 0 player(s) now, 0 ever, 0 Bridge call(s)

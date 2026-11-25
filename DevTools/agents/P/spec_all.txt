@@ -1,0 +1,94 @@
+install: E:\SteamLibrary\steamapps\common\assettocorsa (steam library, 3 steam libraries, 7 ms)
+abarth500                             1100kg lim  6500 FWD  g5 fin 3.35 steer 414/14.0 R 0.308/0.308 SM   DX/DY 1.30/1.28 Tpk 205(t1) ui 230 wings 3 cmp 2 setup 14 P0
+abarth500_s1                          1100kg lim  6500 FWD  g5 fin 3.35 steer 414/14.0 R 0.308/0.308 SM   DX/DY 1.30/1.28 Tpk 216(t1) ui 245 wings 3 cmp 2 setup 14 P0
+ks_abarth_595ss                        545kg lim  6500 RWD  g4 fin 4.13 steer 540/26.0 R 0.247/0.247 V    DX/DY 1.05/1.05 Tpk 50 ui 44 wings 3 cmp 1 setup 10 P0
+ks_abarth_595ss_s1                     545kg lim  6500 RWD  g4 fin 3.70 steer 540/26.0 R 0.247/0.247 V    DX/DY 1.05/1.05 Tpk 50 ui 44 wings 3 cmp 1 setup 10 P0
+ks_abarth_595ss_s2                     545kg lim  7000 RWD  g4 fin 3.70 steer 540/26.0 R 0.247/0.247 V    DX/DY 1.05/1.05 Tpk 69 ui 80 wings 3 cmp 1 setup 10 P0
+ks_alfa_33_stradale                    775kg lim  9200 RWD  g6 fin 3.81 steer 360/13.6 R 0.286/0.317 V    DX/DY 1.27/1.26 Tpk 166 ui 206 wings 1 cmp 1 setup 15 P0
+ks_alfa_giulia_qv                     1658kg lim  7400 RWD  g6 fin 3.09 steer 380/11.8 R 0.328/0.328 HR   DX/DY 1.30/1.30 Tpk 523(t2) ui 600 wings 4 cmp 2 setup 14 P0
+ks_alfa_mito_qv                       1220kg lim  6500 FWD  g6 fin 4.12 steer 414/14.0 R 0.313/0.313 SM   DX/DY 1.30/1.28 Tpk 216(t1) ui 250 wings 3 cmp 2 setup 14 P0
+ks_audi_r8_plus                       1735kg lim  8700 AWD2 g7 fin 4.46 steer 576/17.3 R 0.330/0.330 SM   DX/DY 1.30/1.28 Tpk 454 ui 540 wings 4 cmp 2 setup 15 P0
+ks_audi_a1s1                          1390kg lim  6500 AWD  g6 fin 3.94 steer 507/14.8 R 0.307/0.307 SM   DX/DY 1.30/1.28 Tpk 323(t1) ui 370 wings 3 cmp 2 setup 14 P1
+ks_audi_sport_quattro                 1373kg lim  7200 AWD  g5 fin 3.88 steer 450/17.0 R 0.296/0.296 SM   DX/DY 1.30/1.28 Tpk 434(t1) ui 350 wings 4 cmp 3 setup 16 P0
+ks_audi_sport_quattro_rally           1165kg lim  8650 AWD  g5 fin 3.88 steer 450/12.4 R 0.320/0.320 H    DX/DY 1.44/1.44 Tpk 485(t1) ui 570 wings 3 cmp 1 setup 42 P0
+ks_audi_sport_quattro_s1              1373kg lim  7200 AWD  g5 fin 3.88 steer 450/17.0 R 0.296/0.296 SM   DX/DY 1.30/1.28 Tpk 556(t1) ui 425 wings 4 cmp 3 setup 36 P0
+bmw_1m                                1570kg lim  7200 RWD  g6 fin 3.15 steer 450/15.0 R 0.327/0.334 SM   DX/DY 1.30/1.28 Tpk 467(t2) ui 500 wings 3 cmp 2 setup 14 P0
+bmw_1m_s3                             1570kg lim  7000 RWD  g6 fin 3.60 steer 450/15.0 R 0.327/0.334 SM   DX/DY 1.30/1.28 Tpk 578(t2) ui 580 wings 3 cmp 2 setup 14 P0
+bmw_m3_e30                            1275kg lim  7250 RWD  g5 fin 3.15 steer 450/14.0 R 0.304/0.304 SM   DX/DY 1.30/1.28 Tpk 211 ui 240 wings 3 cmp 3 setup 16 P0
+bmw_m3_e30_drift                      1225kg lim  8000 RWD  g6 fin 3.62 steer 450/12.5 R 0.304/0.304 SM   DX/DY 1.30/1.28 Tpk 322 ui 365 wings 3 cmp 3 setup 24 P0
+bmw_m3_e30_dtm                        1040kg lim  9200 RWD  g6 fin 4.45 steer 360/18.0 R 0.323/0.323 M    DX/DY 1.46/1.46 Tpk 263 ui 310 wings 3 cmp 3 setup 39 P0
+bmw_m3_e30_gra                        1040kg lim  8200 RWD  g5 fin 4.00 steer 360/17.0 R 0.323/0.323 M    DX/DY 1.46/1.46 Tpk 230 ui 310 wings 3 cmp 3 setup 39 P0
+bmw_m3_e30_s1                         1275kg lim  7250 RWD  g5 fin 3.15 steer 450/14.0 R 0.304/0.304 SM   DX/DY 1.30/1.28 Tpk 211 ui 240 wings 3 cmp 3 setup 16 P0
+bmw_m3_e92                            1680kg lim  8400 RWD  g7 fin 3.15 steer 450/15.0 R 0.327/0.334 SM   DX/DY 1.30/1.28 Tpk 348 ui 400 wings 3 cmp 2 setup 14 P0
+bmw_m3_e92_drift                      1650kg lim  8400 RWD  g6 fin 4.40 steer 450/10.0 R 0.327/0.334 SM   DX/DY 1.30/1.28 Tpk 348 ui 400 wings 3 cmp 2 setup 22 P0
+bmw_m3_e92_s1                         1680kg lim  8400 RWD  g7 fin 3.15 steer 450/15.0 R 0.327/0.334 SM   DX/DY 1.30/1.28 Tpk 348 ui 400 wings 3 cmp 2 setup 14 P0
+bmw_m3_gt2                            1320kg lim  8750 RWD  g6 fin 4.50 steer 320/22.5 R 0.325/0.355 M    DX/DY 1.57/1.57 Tpk 433 ui 499 wings 4 cmp 5 setup 61 P0
+bmw_z4                                1680kg lim  7200 RWD  g7 fin 2.56 steer 450/15.0 R 0.327/0.334 SM   DX/DY 1.30/1.28 Tpk 433(t2) ui 500 wings 3 cmp 2 setup 14 P0
+bmw_z4_drift                          1600kg lim  7000 RWD  g7 fin 2.56 steer 450/10.0 R 0.327/0.334 SM   DX/DY 1.30/1.28 Tpk 578(t2) ui 580 wings 3 cmp 2 setup 14 P0
+bmw_z4_s1                             1680kg lim  7200 RWD  g7 fin 2.56 steer 450/15.0 R 0.327/0.334 SM   DX/DY 1.30/1.28 Tpk 383(t2) ui 500 wings 3 cmp 2 setup 14 P0
+bmw_z4_gt3                            1305kg lim  8750 RWD  g6 fin 4.50 steer 320/22.5 R 0.340/0.353 M    DX/DY 1.56/1.56 Tpk 422 ui 520 wings 4 cmp 3 setup 57 P0
+ks_corvette_c7_stingray               1571kg lim  6600 RWD  g7 fin 3.42 steer 450/14.5 R 0.327/0.340 SM   DX/DY 1.30/1.28 Tpk 549 ui 625 wings 4 cmp 2 setup 14 P0
+ferrari_312t                           681kg lim 12100 RWD  g5 fin 4.50 steer 220/12.0 R 0.254/0.330 H    DX/DY 1.49/1.49 Tpk 261 ui 308 wings 4 cmp 2 setup 45 P0
+ferrari_458_gt2                       1320kg lim  8300 RWD  g6 fin 3.20 steer 270/11.9 R 0.325/0.355 M    DX/DY 1.57/1.57 Tpk 466 ui 520 wings 4 cmp 5 setup 61 P0
+ferrari_458                           1578kg lim  9200 RWD  g7 fin 5.14 steer 360/11.9 R 0.324/0.357 SM   DX/DY 1.30/1.28 Tpk 466 ui 540 wings 3 cmp 2 setup 14 P0
+ferrari_458_s3                        1310kg lim  9200 RWD  g7 fin 5.14 steer 210/12.1 R 0.324/0.357 H    DX/DY 1.54/1.52 Tpk 466 ui 540 wings 3 cmp 2 setup 36 P0
+ferrari_599xxevo                      1385kg lim  9000 RWD  g6 fin 4.58 steer 270/16.5 R 0.335/0.355 M    DX/DY 1.52/1.51 Tpk 604 ui 700 wings 4 cmp 3 setup 17 P0
+ferrari_f40                           1250kg lim  7750 RWD  g5 fin 2.73 steer 520/18.0 R 0.312/0.333 ST   DX/DY 1.26/1.23 Tpk 492(t2) ui 577 wings 3 cmp 3 setup 14 P0
+ferrari_f40_s3                        1250kg lim  7750 RWD  g5 fin 2.73 steer 520/18.0 R 0.312/0.333 M    DX/DY 1.47/1.47 Tpk 593(t2) ui 715 wings 3 cmp 3 setup 15 P0
+ferrari_laferrari                     1555kg lim  9250 RWD  g7 fin 4.24 steer 360/11.9 R 0.321/0.358 I    DX/DY 1.51/1.48 Tpk 614 ui 900 wings 5 cmp 2 setup 14 P0
+ks_ford_mustang_2015                  1753kg lim  7000 RWD  g6 fin 3.55 steer 450/16.0 R 0.343/0.351 SM   DX/DY 1.30/1.28 Tpk 488 ui 542 wings 3 cmp 2 setup 15 P0
+alfa_romeo_giulietta_qv               1395kg lim  6500 FWD  g6 fin 3.75 steer 507/16.2 R 0.321/0.321 ST   DX/DY 1.26/1.23 Tpk 384(t1) ui 349 wings 3 cmp 1 setup 14 P0
+alfa_romeo_giulietta_qv_le            1395kg lim  6500 FWD  g6 fin 3.83 steer 507/16.2 R 0.321/0.321 ST   DX/DY 1.26/1.23 Tpk 392(t1) ui 349 wings 3 cmp 1 setup 14 P0
+ktm_xbow_r                             870kg lim  7200 RWD  g6 fin 4.24 steer 360/11.1 R 0.313/0.318 SM   DX/DY 1.30/1.28 Tpk 354(t1) ui 400 wings 3 cmp 1 setup 26 P0
+ks_lamborghini_huracan_performante    1457kg lim  8500 AWD2 g7 fin 4.89 steer 390/12.0 R 0.340/0.346 HR   DX/DY 1.30/1.30 Tpk 504 ui 600 wings 5 cmp 2 setup 14 P0
+ks_lamborghini_miura_sv               1443kg lim  9000 RWD  g5 fin 4.09 steer 585/22.0 R 0.341/0.344 V    DX/DY 1.25/1.25 Tpk 320 ui 400 wings 3 cmp 1 setup 14 P0
+ks_lamborghini_sesto_elemento         1074kg lim  8700 AWD  g6 fin 4.06 steer 300/13.3 R 0.324/0.331 SM   DX/DY 1.28/1.28 Tpk 454 ui 540 wings 4 cmp 2 setup 14 P0
+lotus_2_eleven                         745kg lim  8200 RWD  g6 fin 4.05 steer 450/12.3 R 0.301/0.317 SM   DX/DY 1.30/1.28 Tpk 228 ui 242 wings 3 cmp 1 setup 28 P0
+lotus_2_eleven_gt4                     745kg lim  8200 RWD  g6 fin 4.05 steer 450/12.3 R 0.301/0.317 SM   DX/DY 1.30/1.28 Tpk 242 ui 252 wings 3 cmp 1 setup 29 P0
+lotus_98t                              615kg lim 11600 RWD  g6 fin 3.88 steer 270/12.0 R 0.310/0.330 M    DX/DY 1.59/1.59 Tpk 730(t2) ui 800 wings 4 cmp 4 setup 62 P0
+lotus_elise_sc                        1004kg lim  8500 RWD  g6 fin 4.53 steer 507/18.5 R 0.301/0.317 SM   DX/DY 1.30/1.28 Tpk 189 ui 242 wings 3 cmp 2 setup 14 P0
+lotus_elise_sc_s1                     1004kg lim  8500 RWD  g6 fin 4.53 steer 507/18.5 R 0.301/0.317 SM   DX/DY 1.30/1.28 Tpk 189 ui 242 wings 3 cmp 2 setup 26 P0
+lotus_elise_sc_s2                     1004kg lim  8500 RWD  g6 fin 4.53 steer 507/18.5 R 0.301/0.317 SM   DX/DY 1.30/1.28 Tpk 189 ui 242 wings 3 cmp 2 setup 27 P0
+lotus_evora_gtc                       1205kg lim  7200 RWD  g6 fin 3.92 steer 370/16.2 R 0.323/0.325 M    DX/DY 1.56/1.54 Tpk 400 ui 460 wings 4 cmp 3 setup 57 P0
+lotus_evora_gte                       1470kg lim  7200 RWD  g6 fin 3.78 steer 370/16.2 R 0.324/0.337 SM   DX/DY 1.30/1.28 Tpk 398 ui 461 wings 3 cmp 2 setup 14 P0
+lotus_evora_gte_carbon                1360kg lim  7200 RWD  g6 fin 3.78 steer 370/16.2 R 0.324/0.337 SM   DX/DY 1.30/1.28 Tpk 398 ui 461 wings 3 cmp 2 setup 14 P0
+lotus_evora_gx                        1245kg lim  7200 RWD  g6 fin 3.92 steer 370/16.2 R 0.325/0.355 M    DX/DY 1.57/1.56 Tpk 393 ui 460 wings 4 cmp 3 setup 57 P0
+lotus_evora_s                         1460kg lim  7200 RWD  g6 fin 3.78 steer 450/16.2 R 0.324/0.337 SM   DX/DY 1.30/1.28 Tpk 344 ui 400 wings 3 cmp 2 setup 14 P0
+lotus_evora_s_s2                      1460kg lim  7200 RWD  g6 fin 3.78 steer 450/16.2 R 0.324/0.337 SM   DX/DY 1.30/1.28 Tpk 358 ui 420 wings 3 cmp 2 setup 14 P0
+lotus_exige_240                       1005kg lim  8500 RWD  g6 fin 4.53 steer 507/18.5 R 0.301/0.317 SM   DX/DY 1.30/1.28 Tpk 211 ui 236 wings 3 cmp 2 setup 27 P0
+lotus_exige_240_s3                     975kg lim  8500 RWD  g6 fin 4.53 steer 507/18.5 R 0.301/0.317 SM   DX/DY 1.30/1.28 Tpk 242 ui 270 wings 3 cmp 2 setup 27 P0
+lotus_exige_s                         1251kg lim  7200 RWD  g6 fin 3.78 steer 504/17.3 R 0.308/0.321 SM   DX/DY 1.30/1.28 Tpk 344 ui 400 wings 3 cmp 2 setup 14 P0
+lotus_exige_s_roadster                1241kg lim  7200 RWD  g6 fin 3.94 steer 504/17.3 R 0.308/0.321 SM   DX/DY 1.30/1.28 Tpk 344 ui 400 wings 3 cmp 2 setup 14 P0
+lotus_exige_scura                     1000kg lim  8500 RWD  g6 fin 4.53 steer 507/18.5 R 0.301/0.317 SM   DX/DY 1.30/1.28 Tpk 212 ui 243 wings 3 cmp 2 setup 27 P0
+lotus_exige_v6_cup                    1155kg lim  7200 RWD  g6 fin 3.78 steer 504/16.3 R 0.308/0.321 SM   DX/DY 1.30/1.28 Tpk 344 ui 400 wings 3 cmp 2 setup 22 P0
+lotus_exos_125                         735kg lim 10000 RWD  g6 fin 3.92 steer 180/12.0 R 0.315/0.325 M    DX/DY 1.82/1.82 Tpk 395 ui 450 wings 5 cmp 1 setup 60 P0
+lotus_exos_125_s1                      735kg lim 18000 RWD  g6 fin 6.00 steer 180/12.0 R 0.315/0.325 S    DX/DY 1.84/1.84 Tpk 293 ui - wings 5 cmp 4 setup 60 P0
+lotus_49                               590kg lim  9300 RWD  g5 fin 4.63 steer 315/12.0 R 0.315/0.340 V    DX/DY 1.42/1.42 Tpk 298 ui 350 wings 2 cmp 1 setup 43 P0
+ks_maserati_alfieri                   1571kg lim  7500 RWD  g6 fin 4.18 steer 450/14.5 R 0.343/0.372 ST   DX/DY 1.26/1.23 Tpk 449 ui 520 wings 4 cmp 1 setup 14 P0
+ks_maserati_levante                   2109kg lim  7520 AWD2 g8 fin 2.80 steer 400/14.6 R 0.373/0.373 ST   DX/DY 1.23/1.19 Tpk 513(t2) ui 580 wings 1 cmp 1 setup 14 P1
+ks_maserati_quattroporte              1975kg lim  7200 RWD  g8 fin 2.93 steer 400/12.6 R 0.353/0.353 ST   DX/DY 1.26/1.23 Tpk 605(t2) ui 710 wings 2 cmp 1 setup 14 P1
+ks_mazda_787b                          920kg lim  9000 RWD  g5 fin 4.43 steer 360/13.0 R 0.320/0.355 M    DX/DY 1.47/1.45 Tpk 505 ui 608 wings 6 cmp 3 setup 61 P0
+ks_mazda_miata                        1080kg lim  7250 RWD  g5 fin 4.10 steer 504/15.0 R 0.289/0.289 SV   DX/DY 1.22/1.21 Tpk 135 ui 152 wings 3 cmp 2 setup 14 P0
+mclaren_mp412c                        1509kg lim  8500 RWD  g7 fin 3.30 steer 468/15.0 R 0.324/0.346 SM   DX/DY 1.30/1.28 Tpk 536(t2) ui 600 wings 2 cmp 2 setup 14 P0
+mclaren_mp412c_gt3                    1320kg lim  7500 RWD  g6 fin 3.75 steer 240/15.0 R 0.340/0.355 M    DX/DY 1.56/1.56 Tpk 450(t2) ui 500 wings 4 cmp 3 setup 57 P2
+mercedes_sls                          1680kg lim  7200 RWD  g7 fin 3.67 steer 450/14.0 R 0.334/0.343 SM   DX/DY 1.30/1.28 Tpk 571 ui 650 wings 3 cmp 2 setup 14 P0
+mercedes_sls_gt3                      1360kg lim  7000 RWD  g6 fin 3.43 steer 320/13.6 R 0.340/0.355 M    DX/DY 1.56/1.56 Tpk 517 ui 600 wings 4 cmp 3 setup 57 P0
+ks_nissan_gtr                         1825kg lim  7000 AWD2 g6 fin 3.70 steer 432/13.6 R 0.356/0.354 HR   DX/DY 1.31/1.29 Tpk 636(t2) ui 652 wings 3 cmp 1 setup 14 P0
+p4-5_2011                             1310kg lim  8200 RWD  g6 fin 3.50 steer 200/16.0 R 0.325/0.355 M    DX/DY 1.57/1.57 Tpk 438 ui 500 wings 4 cmp 5 setup 51 P0
+pagani_huayra                         1465kg lim  7000 RWD  g7 fin 3.13 steer 396/12.0 R 0.330/0.355 I    DX/DY 1.51/1.48 Tpk 935(t2) ui 1000 wings 7 cmp 2 setup 14 P0
+ks_pagani_huayra_bc                   1293kg lim  7000 RWD  g7 fin 3.13 steer 396/12.0 R 0.331/0.355 HR   DX/DY 1.30/1.30 Tpk 935(t2) ui 1100 wings 8 cmp 2 setup 14 P0
+pagani_zonda_r                        1150kg lim  8000 RWD  g6 fin 3.36 steer 324/15.0 R 0.323/0.353 M    DX/DY 1.52/1.51 Tpk 588 ui 710 wings 4 cmp 3 setup 39 P0
+ks_porsche_cayenne                    2260kg lim  6700 AWD2 g8 fin 2.92 steer 400/15.0 R 0.370/0.370 ST   DX/DY 1.23/1.19 Tpk 699(t2) ui 800 wings 3 cmp 1 setup 14 P0
+ks_porsche_macan                      1925kg lim  6700 AWD2 g7 fin 4.67 steer 450/15.0 R 0.373/0.373 ST   DX/DY 1.23/1.19 Tpk 468(t2) ui 550 wings 3 cmp 1 setup 14 P0
+ks_porsche_panamera                   2109kg lim  7000 AWD2 g8 fin 2.80 steer 449/11.5 R 0.364/0.364 HR   DX/DY 1.31/1.29 Tpk 656(t2) ui 770 wings 3 cmp 1 setup 14 P3
+ruf_yellowbird                        1225kg lim  6800 RWD  g5 fin 4.00 steer 520/17.0 R 0.313/0.318 SM   DX/DY 1.30/1.28 Tpk 571(t2) ui 553 wings 3 cmp 3 setup 18 P0
+shelby_cobra_427sc                    1045kg lim  6750 RWD  g4 fin 3.25 steer 450/17.3 R 0.312/0.333 V    DX/DY 1.37/1.36 Tpk 508 ui 626 wings 3 cmp 1 setup 44 P0
+tatuusfa1                              530kg lim  6500 RWD  g6 fin 3.10 steer 200/12.5 R 0.275/0.285 M    DX/DY 1.61/1.61 Tpk 271(t1) ui 230 wings 4 cmp 3 setup 49 P0
+ks_toyota_gt86                        1285kg lim  7500 RWD  g6 fin 4.10 steer 450/13.0 R 0.313/0.313 SM   DX/DY 1.30/1.28 Tpk 184 ui 205 wings 3 cmp 3 setup 14 P0
+cars 86, with problems 5, problems 8, 120 ms
+    1x ctrl_#ws#ini not simulated
+    1x ctrl_arb_front#ini not simulated
+    1x ctrl_arb_rear#ini not simulated
+    1x ctrl_awd_center_lock#ini # LUT # missing
+    2x ctrl_turbo#ini not simulated
+    2x electronics#ini # CURVE: lut # missing or empty

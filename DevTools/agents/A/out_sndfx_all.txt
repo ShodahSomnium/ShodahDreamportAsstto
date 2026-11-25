@@ -1,0 +1,146 @@
+install: E:\SteamLibrary\steamapps\common\assettocorsa (steam library, 3 steam libraries, 10 ms)
+cars 86
+    1 backfire_ext: 2D (no spatialiser)
+   50 backfire_ext: lowpass master post
+    1 backfire_ext: spatialiser 3/20 r0
+   49 backfire_ext: spatialiser 3/25 r0
+    3 backfire_int: 2D (no spatialiser)
+   47 backfire_int: spatialiser 4/20 r0
+    8 backfire_int: three-eq master pre
+    3 bodywork: spatialiser 1/9 r0
+   83 bodywork: spatialiser 3/10 r0
+    2 bodywork: three-eq master pre
+   73 door: spatialiser 1/10 r0
+    8 door: spatialiser 1/15 r0
+   86 engine_ext: FMOD Distance Filter master post
+    1 engine_ext: FMOD Distortion group pre
+    6 engine_ext: dsp 12 group post
+   18 engine_ext: dsp 12 group pre
+    1 engine_ext: dsp 12 master pre
+   80 engine_ext: lowpass master post
+   86 engine_ext: spatialiser 6/350 r3
+   18 engine_ext: three-eq group pre
+    2 engine_ext: three-eq master pre
+    8 engine_int: FMOD Distortion group pre
+    4 engine_int: FMOD Distortion master pre
+    1 engine_int: FMOD Gain group pre
+    1 engine_int: FMOD Highpass Simple group post
+    3 engine_int: dsp 12 group post
+    4 engine_int: dsp 12 master post
+    1 engine_int: dsp 19 group pre
+    4 engine_int: dsp 19 master pre
+   86 engine_int: spatialiser 7/50 r0
+    6 engine_int: three-eq group post
+   44 engine_int: three-eq group pre
+    7 engine_int: three-eq master pre
+    2 gear_ext: 2D (no spatialiser)
+    2 gear_ext: lowpass master post
+   82 gear_ext: spatialiser 2/18 r0
+    2 gear_ext: spatialiser 2/18 r3
+    4 gear_ext: three-eq master pre
+   54 gear_grind: spatialiser 5/15 r0
+   54 gear_grind: three-eq master pre
+   86 gear_int: 2D (no spatialiser)
+   69 horn: spatialiser 5/20 r0
+   24 limiter: 2D (no spatialiser)
+   58 limiter: lowpass master pre
+    2 limiter: spatialiser 5/10 r0
+    6 limiter: spatialiser 5/15 r0
+   26 limiter: spatialiser 5/20 r0
+   24 limiter: spatialiser 5/25 r0
+   11 limiter: three-eq master pre
+   86 skid_ext: spatialiser 1.5/20 r0
+   84 skid_int: spatialiser 1/15 r0
+    2 skid_int: spatialiser 1/25 r0
+    2 skid_int: three-eq master pre
+   82 tractioncontrol_ext: spatialiser 3/12 r0
+   80 tractioncontrol_int: spatialiser 3/15 r0
+    2 tractioncontrol_int: spatialiser 3/20 r0
+   82 tractioncontrol_int: three-eq master pre
+   29 transmission: spatialiser 5/15 r0
+    1 turbo: spatialiser 4/15 r0
+   29 turbo: spatialiser 4/20 r0
+    5 turbo: spatialiser 4/25 r0
+   86 wheel: spatialiser 1.5/10 r0
+   86 wind: spatialiser 5/25 r0
+automations:
+   43 backfire_ext lowpass p0 on Event Cone Angle: 59.975>10 180>6.348
+    4 backfire_ext lowpass p0 on Event Cone Angle: 60.123>10 180>6.348
+    3 backfire_ext lowpass p0 on Event Cone Angle: 60>10 146>7.065
+    1 engine_ext dsp 12 p0 on rpms: 234.375>0 500>0 750>0.063 1000>0.167 1250>0.271 1500>0.375 2000>0.584 2500>0.791 3000>1 3500>1.057 4000>1.11 4500>1.167 5000>1.223 5500>1.277 6000>1.333 6500>1.39 6750>1.417 7000>1.443 7250>1.473 7500>1.5 7750>1.527 8000>1.557
+    5 engine_ext dsp 12 p0 on rpms: 234.375>0 500>0.01 750>0.14 1000>0.271 1250>0.401 1500>0.531 2000>0.791 2500>1.013 3000>1.083 3500>1.153 4000>1.223 4500>1.293 5000>1.36 5500>1.43 6000>1.5 6500>1.57 6750>1.603 7000>1.64 7250>1.673 7500>1.707 7750>1.743 8000>1.777
+    1 engine_ext dsp 12 p2 on rpms: 6000>1 6800>0.935
+    2 engine_ext dsp 12 p2 on throttle: 0.4>1 0.8>1.133
+    1 engine_ext dsp 12 p2 on throttle: 0>1 0.197>0.867 0.4>1.067
+    1 engine_ext dsp 12 p2 on throttle: 0>1 0.2>0.867 0.8>1
+    2 engine_ext dsp 12 p2 on throttle: 0>1.133 0.197>1 0.4>1 0.8>1.133
+    1 engine_ext lowpass p0 on Event Cone Angle: 0>6.674 120>10
+    2 engine_ext lowpass p0 on Event Cone Angle: 30>10 120>6.957
+    1 engine_ext lowpass p0 on Event Cone Angle: 30>10 180>5.87
+    3 engine_ext lowpass p0 on Event Cone Angle: 30>10 180>6.196
+    2 engine_ext lowpass p0 on Event Cone Angle: 30>10 180>6.239
+    1 engine_ext lowpass p0 on Event Cone Angle: 30>10 180>6.283
+    3 engine_ext lowpass p0 on Event Cone Angle: 30>10 180>6.565
+    2 engine_ext lowpass p0 on Event Cone Angle: 30>10 180>6.63
+    1 engine_ext lowpass p0 on Event Cone Angle: 30>10 180>6.674
+    1 engine_ext lowpass p0 on Event Cone Angle: 30>10 180>6.891
+   35 engine_ext lowpass p0 on Event Cone Angle: 30>10 180>6.957
+    1 engine_ext lowpass p0 on Event Cone Angle: 30>10 180>7.065
+    6 engine_ext lowpass p0 on Event Cone Angle: 30>10 180>7.174
+    1 engine_ext lowpass p0 on Event Cone Angle: 30>10 180>7.222
+    1 engine_ext lowpass p0 on Event Cone Angle: 40>10 140>6.848
+    2 engine_ext lowpass p0 on Event Cone Angle: 40>10 160>6.696
+    1 engine_ext lowpass p0 on Event Cone Angle: 40>10 180>6.565
+    1 engine_ext lowpass p0 on Event Cone Angle: 40>10 180>7.174
+    2 engine_ext lowpass p0 on Event Cone Angle: 40>8.563 180>8.313
+    1 engine_ext lowpass p0 on Event Cone Angle: 50>10 120>6.739
+    3 engine_ext lowpass p0 on Event Cone Angle: 50>10 130>6.239
+    2 engine_ext lowpass p0 on Event Cone Angle: 50>10 180>7
+    1 engine_ext lowpass p0 on Event Cone Angle: 50>8.913 160>6.957
+    1 engine_ext lowpass p0 on Event Cone Angle: 60>10 142>7.283
+    1 engine_ext lowpass p0 on Event Cone Angle: 60>10 150>7
+    1 engine_ext lowpass p0 on Event Cone Angle: 60>10 180>6.087
+    2 engine_ext lowpass p0 on Event Cone Angle: 70>10 120>7.5
+    1 engine_ext lowpass p0 on Event Cone Angle: 74>10 170>7.391
+    1 engine_ext three-eq p0 on rpms: 780.185>0 1489.965>-6.052 2777.254>0
+    1 engine_ext three-eq p1 on rpms: 1992.673>-16.837 5000>-9 8000>-6
+    1 engine_ext three-eq p1 on rpms: 3000>0.414 5000>-6.052 6600>0
+    3 engine_ext three-eq p1 on rpms: 3800>-12.043 8400>0
+    1 engine_ext three-eq p1 on rpms: 5509.716>0 7000>3
+    1 engine_ext three-eq p2 on Distance: 89.997>0 174.1>-9.048
+    3 engine_ext three-eq p2 on rpms: 1000>3.41 4800>-4.255 8000>0
+    1 engine_ext three-eq p2 on rpms: 1658.171>-10.246 4500>-9 7500>-3.75
+    3 engine_ext three-eq p2 on rpms: 2000>-12.043 8400>0
+    1 engine_ext three-eq p2 on rpms: 2000>0 5000>-12.643
+    1 engine_ext three-eq p2 on rpms: 5848.997>0 6981.523>-4.255
+    1 engine_int FMOD Distortion p0 on rpms: 10000>0 17500>0.348
+    2 engine_int FMOD Distortion p0 on rpms: 1200>0 7000>0.25
+    7 engine_int FMOD Distortion p0 on rpms: 1365.874>0 6000>0.25
+    1 engine_int FMOD Distortion p0 on rpms: 3000>0.102 8000>0.297
+    1 engine_int FMOD Distortion p0 on rpms: 5976.426>0 6976.744>0.25
+    3 engine_int dsp 12 p0 on rpms: 234.375>0 500>0 750>0.063 1000>0.167 1250>0.271 1500>0.375 2000>0.584 2500>0.791 3000>1 3500>1.057 4000>1.11 4500>1.167 5000>1.223 5500>1.277 6000>1.333 6500>1.39 6750>1.417 7000>1.443 7250>1.473 7500>1.5 7750>1.527 8000>1.557
+    4 engine_int dsp 12 p0 on rpms: 234.375>0 500>0.01 750>0.14 1000>0.271 1250>0.401 1500>0.531 2000>0.791 2500>1.013 3000>1.083 3500>1.153 4000>1.223 4500>1.293 5000>1.36 5500>1.43 6000>1.5 6500>1.57 6750>1.603 7000>1.64 7250>1.673 7500>1.707 7750>1.743 8000>1.777
+    3 engine_int dsp 12 p2 on rpms: 6000>1 6800>0.935
+    1 engine_int dsp 12 p2 on throttle: 0.6>0.367 0.9>0.833
+    1 engine_int dsp 12 p2 on throttle: 0>1 0.197>0.867 0.4>1.067
+    2 engine_int dsp 12 p2 on throttle: 0>1 0.197>0.933 0.4>0.933 0.8>1.1
+    1 engine_int dsp 12 p2 on throttle: 0>1 0.2>0.867 0.8>1
+    2 engine_int dsp 12 p2 on throttle: 0>1.133 0.2>1 0.8>1
+    1 engine_int three-eq p0 on rpms: 0>-0.174 6000>2.087 9000>-0.174
+    1 engine_int three-eq p0 on rpms: 0>-0.174 6000>2.652 8000>-0.739
+    1 engine_int three-eq p0 on rpms: 1000>-5.453 3200>-0.061 4200>-0.061 6600>-3.656 8000>-0.66
+    1 engine_int three-eq p0 on rpms: 1400>0.043 5000>1.522
+    1 engine_int three-eq p0 on rpms: 3000>0 8000>6.405
+    1 engine_int three-eq p0 on rpms: 3000>0.391 5000>3.217 6400>0.391
+    1 engine_int three-eq p0 on rpms: 5250>0 6500>3
+    1 engine_int three-eq p1 on rpms: 1242.434>-2.41 4047.467>1
+    1 engine_int three-eq p1 on rpms: 3600>0.391 8200>0.957
+    1 engine_int three-eq p1 on rpms: 3600>0.391 9000>-0.739
+    1 engine_int three-eq p1 on rpms: 4400>-0.174 6400>3.217 8000>-0.174
+    1 engine_int three-eq p1 on rpms: 800>-6.449 3966.816>2
+    1 engine_int three-eq p1 on rpms: 800>-8.449 1900>0.414
+    1 engine_int three-eq p2 on rpms: 2000>-8.133 6200>0
+    1 engine_int three-eq p2 on rpms: 4687.799>1.5 6504.795>2.5
+    1 engine_int three-eq p2 on rpms: 5600>-3 7800>0.391
+    2 gear_ext lowpass p0 on Event Cone Angle: 30>10 180>7.174
+   58 limiter lowpass p0 on Event Cone Angle: 40>10 120>6.565

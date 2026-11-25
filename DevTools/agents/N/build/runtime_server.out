@@ -1,0 +1,12 @@
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\Net\SceneNetworking.cs(362,67): warning CS0618: 'SimulationMessagePtr' is obsolete: 'Not used anymore'
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\Ai\AcAiDriver.cs(81,76): error CS0136: A local or parameter named 'e' cannot be declared in this scope because that name is used in an enclosing local scope to define a local or parameter
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\Ai\AcAi.cs(65,37): error CS0103: The name 'AcAiField' does not exist in the current context
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\Ai\AcAi.cs(70,45): error CS0103: The name 'AcAiField' does not exist in the current context
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\Ai\AcAi.cs(117,13): error CS0103: The name 'AcAiField' does not exist in the current context
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\Ai\AcAi.cs(138,52): error CS0103: The name 'AcAiField' does not exist in the current context
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\Ai\AcAi.cs(163,17): error CS0103: The name 'AcAiField' does not exist in the current context
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\Ai\AcAi.cs(170,17): error CS0103: The name 'AcAiField' does not exist in the current context
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\Ai\AcAi.cs(187,13): error CS0103: The name 'AcAiField' does not exist in the current context
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\Ai\AcAi.cs(199,56): error CS0103: The name 'AcAiField' does not exist in the current context
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\Ai\AcAi.cs(199,143): error CS0103: The name 'AcAiField' does not exist in the current context
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\World\AcCooker.cs(65,27): warning CS0618: 'Physics.BakeMesh(int, bool)' is obsolete: 'BakeMesh(int, bool) is obsolete. Use BakeMesh(EntityId, bool) instead.'

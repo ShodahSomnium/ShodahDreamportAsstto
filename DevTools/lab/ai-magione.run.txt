@@ -1,0 +1,122 @@
+lab 'ai-magione' in slot A (D:\Dreamport\Assetta Corsa)
+unity exit 1 (slot A)
+[SomniumAssetto] Access: editor: the whitelist (6 name(s)) is not applied
+[SomniumAssetto] Assetto Corsa Dreamport - iteration 1 (2026-10-31): skeleton: whitelist gate, isolation, install discovery, content catalog
+[SomniumAssetto] Shaders carried: SomniumAssetto/PerPixel, SomniumAssetto/Multilayer, SomniumAssetto/Sky, TextMeshPro/Mobile/Distance Field, TextMeshPro/Distance Field
+[SomniumAssetto] Isolation: up (whitelisted: other whitelisted players): players not on the whitelist (a visitor) are hidden (after 0.5 s, shown after 0 s is on the whitelist (a Dreamport player); first decision at once; renderers forceRenderingOff, tag alpha, colliders, voices volume 0, other sounds muted); warm-up scan of 0 scene(s) 2.10 ms, 0 avatar/item root(s)
+[SomniumAssetto] Editor: no EventSystem in the scene - added one with a StandaloneInputModule.
+[SomniumAssetto] Shader 'Universal Render Pipeline/Lit': Shader.Find
+[SomniumAssetto] Front: the hub's RACE LOBBY page was built in 35 ms.
+[SomniumAssetto] Tablet: searching for the Somnium tablet (the "ASSETTO CORSA" app goes on its home screen; the hub panel stays the menu too).
+[SomniumAssetto] Front: the showroom hub and its menu are up (whitelisted player); the tablet app is searching.
+[SomniumAssetto] Net: started (Fusion session, protocol 2); alone or offline everything stays local
+[SomniumAssetto] Race: conductor up (Assetto Corsa Dreamport - iteration 1 (2026-10-31))
+[SomniumAssetto] Seat: started (seat writes at -90 / 9000 / 10000, monitor avatar carry 9990, poses 9997; vr no; horizon lock on; the Somnium tablet stays usable while seated - B / Y are not ours - and the VR pedals disarm while it is used).
+[SomniumAssetto] Hud: started (waits for the install to load the HUD art)
+[SomniumAssetto] Tags: on - the Somnium name tags of the other Somnium players in this world are hidden while the Dreamport runs, given back when you leave (the Bridge's ISomniumPlayerInfo.SetPlayerTagDisableState - unproven, first used here; fallback ready: the tag's CanvasGroup alpha; re-applied every 1 s; visitors are left to the isolation)
+[SomniumAssetto] Boot: install E:\SteamLibrary\steamapps\common\assettocorsa, 86 owned cars (176 listed), 35 playable layouts (21 tracks; found in 1 ms, scanned in 360 ms)
+[SomniumAssetto] Shader 'TextMeshPro/Mobile/Distance Field': carried
+[SomniumAssetto] Shader 'TextMeshPro/Distance Field': carried
+[SomniumAssetto] Fonts: Segoe UI built from segoeui.ttf, segoeuil_0.ttf, seguisb.ttf from E:\SteamLibrary\steamapps\common\assettocorsa\content\fonts (shader TextMeshPro/Mobile/Distance Field); 144 texts switched to it.
+[SomniumAssetto] Audio: started (car banks from the install, worker thread, 131072 floats/frame upload)
+[SomniumAssetto] Track: time / weather defaults from Documents/Assetto Corsa/cfg/race.ini: SUN_ANGLE -48 (10:00), weather 4_mid_clear
+[SomniumAssetto] Front: audio preloaded and the TRACK / AUDIO settings rows asked for at boot (23 -> 32 rows).
+[SomniumAssetto] Front: hub light from system/cfg/colorCurves.ini (as acShowroom.exe) (boot): sun 3.81,3.69,3.34, ambient 0.94,1.15,1.39, sky 0.21,0.49,0.98/0.78,0.88,1.11, elevation 52 deg.
+[SomniumAssetto] Race: defaults laps 5, qualify 10 min, RACE_OVER_TIME 180 s, ALLOWED_TYRES_OUT 2, ABS 1, TC 1, OVER_TIME_MULT 1.2, QUALIFY_MAX_WAIT_PERC 120, START_RULE 0 -> jump start penalty 0, [PRACTICE] TIME 10 (practice stays open-ended) (server/cfg/server_cfg.ini + server/presets/SERVER_00/server_cfg.ini + system/cfg/assetto_corsa.ini)
+[SomniumAssetto] Front: the game's ui read - 558 words (system/locales), skin.ini read, launcher accent 189,0,0,255 (236 uses in the css), assists from C:\Users\derii\Documents\Assetto Corsa\cfg\assists.ini
+[SomniumAssetto] Front: drive choice abarth500/0_white_scorpion (remembered, race took it)
+[SomniumAssetto] Tablet: the app icon carries the launcher's logo (E:\SteamLibrary\steamapps\common\assettocorsa\launcher\themes\default\graphics\logo.png).
+[SomniumAssetto] Audio: UI sounds from the install (gui_click.wav 44100 Hz 2 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (select2.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (select3.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (negative.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (item.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (bighit.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (camera_click.wav 48000 Hz 2 ch first)
+[SomniumAssetto] Audio: common.bank bank: 29 samples (41.7 MB PCM), events found [collisions/car/hit collisions/car/scrape collisions/object/hit collisions/track/hit collisions/track/scrape common/ambience common/dirt common/ds_protection common/screw common/unscrew surfaces/extraturf surfaces/grass surfaces/gravel surfaces/kerb surfaces/old surfaces/sand surfaces/tyre_rolling], 2 multi instruments, 15 events 3D by their spatialiser, effects [hit: three-eq; scrape: three-eq; dirt: three-eq; gravel: three-eq; kerb: three-eq] in 33 ms
+[SomniumAssetto] Audio: common.bank: 29 samples, 17 events; start beep event:/common/ds_protection (beep), ambience ambient1 (loop region)
+LAB: booted: Assetto Corsa found: E:\SteamLibrary\steamapps\common\assettocorsa  -  86 cars, 35 track layouts
+LAB: ok   layout magione/ owned
+LAB: ok   ChooseCar ks_toyota_gt86 (my car; the AI drive it too)
+[SomniumAssetto] Front: first menu picture decoded from the install (logo.png, 110x91).
+[SomniumAssetto] Audio: clips built for common.bank (1 clips, 0.0 MB, cache hits 0) in 0.0 s
+[SomniumAssetto] Hud: art loaded (29 images, fonts: Segoe UI shared with the tablet (segoeui.ttf, segoeuil_0.ttf, seguisb.ttf from E:\SteamLibrary\steamapps\common\assettocorsa\content\fonts (shader TextMeshPro/Mobile/Distance Field)), bitmap arial_big (94 glyphs, 4096x64, max U 0.896); config: 6 files, language en (313 strings), USE_MPH 0, TIME_DIFFERENCE 1)
+[SomniumAssetto] Hud: units km/h (AC gameplay.ini USE_MPH), standings default on ([OVERLAY_LEADERBOARD] ACTIVE 3), session box practice/qualify/race 1/1/1, join/leave messages 1/1
+[SomniumAssetto] Shader 'SomniumAssetto/PerPixel': carried
+[SomniumAssetto] Kn5: built showroom.kn5: 7 renderers, 4990 tris, 0 colliders, 4 textures read (0 from the skin, mips made 0, failed 0), prepare 31 ms, upload 151 ms
+[SomniumAssetto] Front: showroom built (content/showroom/showroom/showroom.kn5: 7 renderers, 4 textures, read 561 ms, built 194 ms).
+[SomniumAssetto] Kn5: built abarth500.kn5: 182 renderers, 114873 tris, 0 colliders, 72 textures read (4 from the skin, mips made 40, failed 0), prepare 111 ms, upload 50 ms
+[SomniumAssetto] Shader 'Sprites/Default': Shader.Find
+[SomniumAssetto] Car: font digital_mid (94 glyphs, 2048x32, max U 0.694) loaded for cockpit displays
+[SomniumAssetto] Car: font e92_big (94 glyphs, 4096x64, max U 0.864) loaded for cockpit displays
+[SomniumAssetto] Car: built abarth500/0_white_scorpion LOD 0 in 283 ms (worker 29 ms; 182 meshes, 114873 tris, textures 43.1 MB uploaded (38.4 MB in the kn5), hull 0 colliders, doors L/R, steer yes r 0.198, lights 5, needles 3, leds 19, displays 4, blur 8, driver no, interior yes, passenger seat yes, W nodes 275, damage normals flat 1)
+[SomniumAssetto] Physics: rig abarth500 (Showroom) built in 400 ms: model True, hull colliders 0, physics False, audio False
+[SomniumAssetto] Front: showroom car abarth500/0_white_scorpion on the floor.
+[SomniumAssetto] Front: lobby rules seeded from AcRace.DefaultRules (R: server/cfg/server_cfg.ini once the install is read) (Practice, 10 min, ABS 1, TC 1, tyres out 2, AI 0).
+LAB: lobby draft version 2 (seeded from AcRace.DefaultRules (R: server/cfg/server_cfg.ini once the install is read))
+[SomniumAssetto] Net: race command 1 published (phase 2, track 5bb648a5).
+[SomniumAssetto] Race: command seq 1 Practice magione (Practice, 10 min, ABS 1, TC 1, tyres out 2, AI 1, cars 1), master -1
+[SomniumAssetto] Race: load magione (Practice, 10 min, ABS 1, TC 1, tyres out 2, AI 1, cars 1) by me
+[SomniumAssetto] Session: Hub -> Loading
+[SomniumAssetto] Loading: magione (Magione) - Practice, 10 min, ABS 1, TC 1, tyres out 2, AI 1, cars 1
+[SomniumAssetto] Net: race command seq 1 applied (Practice magione, published by me)
+LAB: ok   RequestLoad magione with 1 AI (level 100)
+[SomniumAssetto] Track: the scene's directional light(s) switched off while a track is loaded (2, first 'Ac Hub Sun'); Ac Sun lights the track
+[SomniumAssetto] Shader 'SomniumAssetto/Sky': carried
+[SomniumAssetto] Track: look: weather 4_mid_clear, sun pitch 35 heading 240 angle -48 -> elevation 33 deg, sun (5.10,4.22,3.29), ambient (1.56,1.56,1.56), sky (0.10,0.25,0.58)/(0.61,0.64,0.77), fog (0.57,0.74,1.00) blend 0.75 distance 8000 m (time Documents/Assetto Corsa/cfg/race.ini, weather Documents/Assetto Corsa/cfg/race.ini)
+[SomniumAssetto] Track: loading magione: 2 kn5, 963 meshes (701 drawn, 292 colliders, 43 marker cubes hidden, 3 inactive), 82 textures, 3096377 vertices; scan 18 ms
+[SomniumAssetto] Track: markers: 18 grid, 18 pits, gates 2, hotlap yes, start lights 4, fast lane 1754 points 2456 m, pit lane 819 points, pole progress 0.9979
+[SomniumAssetto] Shader 'SomniumAssetto/Multilayer': carried
+[SomniumAssetto] Track: start lights 4 (KS_START_LIGHT_0..3), emissive 2,0,0 diffuse 0.3, lamp 0 (1 panel(s)) 49 m from the pole, ahead-dot 1.00, faces the pole 0.99
+[SomniumAssetto] Track: built magione in 0.8 s (701 meshes, 2039602 tris, 82 textures 157 MB, mesh data 121 MB, 292 colliders, 80 walls, surfaces matched 212/unmatched 0, LOD-managed 460, mips made 73, shadows kn5 castShadows; worker 741 ms, cooking baked off the main thread: 292, worst frame so far 0 ms, managed heap 239 -> 154 MB)
+[SomniumAssetto] Track: ready magione: worst frame after 1 s 0 ms (), allocated 754 -> 1134 MB, graphics driver 387 MB, track needs far plane 6000 m, player camera not found yet
+[SomniumAssetto] Race: timing circuit, 2 gate(s) (2 sectors), fast lane 1754 points, 2456 m, pit lane by IS_PITLANE surfaces
+[SomniumAssetto] Race: track built in 0.8 s, my pit box 0 (of 18), grid 18 slots (pole before the line), hotlap start yes, start lights 4, crew side 1
+[SomniumAssetto] Audio: track surfaces' sounds requested at track load (6 surfaces with a common.bank event)
+[SomniumAssetto] Kn5: built toyota_gt86.kn5: 175 renderers, 202323 tris, 0 colliders, 76 textures read (3 from the skin, mips made 71, failed 0), prepare 331 ms, upload 56 ms
+[SomniumAssetto] Car: font digital_mid (94 glyphs, 2048x32, max U 0.694) loaded for cockpit displays
+[SomniumAssetto] Car: built ks_toyota_gt86/0_fusion_orange LOD 0 in 493 ms (worker 98 ms; 175 meshes, 202323 tris, textures 37.2 MB uploaded (33.7 MB in the kn5), hull 1 colliders, doors L/R, steer yes r 0.189, lights 10, needles 4, leds 0, displays 2, blur 8, driver no, interior yes, passenger seat yes, W nodes 271, damage normals flat 2)
+[SomniumAssetto] Physics: ks_toyota_gt86 wheels drawn at the physics hubs: travel offsets LF/RF/LR/RR 35/35/58/58 mm; static CG 0.409 m vs -GRAPHICS_OFFSET.y 0.475
+[SomniumAssetto] Physics: ks_toyota_gt86 spec: mass 1285 kg + 30 l fuel, inertia box 1.6x1.2x4.6, CG height 0.475 m, RWD, 6 gears (3.626 2.188 1.541 1.213 1 0.767), final 4.1, limiter 7500, steer lock 450/ratio 13, tyre Semislicks DX/DY 1.3/1.28 R 0.313/0.313, turbos 0, aero wings 3, problems 0
+[SomniumAssetto] Physics: ks_toyota_gt86 local setup: 0 garage values applied; aids ABS 2 TC 2 auto-shift True auto-clutch False auto-blip False; rates fuel 100 % tyre wear 100 %
+[SomniumAssetto] Physics: rig ks_toyota_gt86 (Local) built in 509 ms: model True, hull colliders 1, physics True, audio True
+[SomniumAssetto] Race: my car ks_toyota_gt86 (0_fusion_orange) ready in 0.5 s at pit box 0 (71.1, 5.5, -75.7)
+[SomniumAssetto] Race: player NOT moved beside the car (pit box 0, editor: nothing to move)
+[SomniumAssetto] Ai: fast lane ready: 1754 points, 2456 m, room from the payload True
+[SomniumAssetto] Ai: ai_hints.ini of magione: 1 hint(s), 0 brake hint(s), 0 danger zone(s) (0 fast-lane points with less room)
+[SomniumAssetto] Ai: pit lane ready: 819 points, 1250 m
+[SomniumAssetto] Ai: pit exit at 610 m of the 1250 m pit line (fast lane s 41 m), waiting point 600 m
+[SomniumAssetto] Ai: 40 driver names from content/career/names.txt
+[SomniumAssetto] Ai: spawning 1 AI car(s) (level 100)
+[SomniumAssetto] Race: AI field 1 car(s) (level 100)
+[SomniumAssetto] Session: Loading -> Practice
+[SomniumAssetto] Shader 'Universal Render Pipeline/Unlit': Shader.Find
+[SomniumAssetto] Loading: done - fading into magione.
+[SomniumAssetto] Hub: hidden.
+LAB: ok   practice after the load
+LAB: ok   AcAi.Available (fast lane loaded)
+[SomniumAssetto] Audio: ks_toyota_gt86 bank: 34 samples (21.1 MB PCM), engine_int 10 layers, engine_ext 10 layers, events found [bodywork door engine_ext engine_int gear_ext gear_grind gear_int horn limiter skid_ext skid_int tractioncontrol_ext tractioncontrol_int wheel wind], 13 events 3D by their spatialiser, effects [engine_ext: FMOD Distance Filter, lowpass~Event Cone Angle; engine_int: three-eq; gear_grind: three-eq; limiter: three-eq, lowpass~Event Cone Angle; tractioncontrol_int: three-eq], routed into the common.bank mixer groups in 4 ms; sounds.ini: ks_toyota_gt86: engine front, skids entry 0.45 mix 0.62, backfire gas<0 after >0.8 6500-12000 rpm, limiter 7500, track-camera scales gear_ext 0 backfire out 2 (not used: car-camera rule)
+[SomniumAssetto] Ai: ks_toyota_gt86 ai.ini v3 up 7200 down 5000 gas 4 brake 0.87 trail 0.5 steer 1.61 look 17.1+0.1/mps gb 10 aero 1 | ks_toyota_gt86: 1308 kg, mu lat 1.19/1.26 long 1.24/1.29 (Semislicks), ClA 0.00 CdA 0.57, RWD 6 gears, limiter 7500, boost 0.00, top 254 km/h, brakes 1.25 g, wb 2.57, steer 450/14 | planned lap 1:30.262 at level 100 (grip use 0.87, road 1.00, ai_hints on 39 points, slower on 168 crest points) | fuel 30.0 l (practice 1.00, 0.83 l/lap planned, tank 50 l)
+[SomniumAssetto] Audio: event limiter has a three-eq effect on its master bus - Unity has no component for it, not reproduced
+[SomniumAssetto] Audio: event engine_int has a three-eq effect on a group bus - Unity has no component for it, not reproduced
+[SomniumAssetto] Audio: event tractioncontrol_int has a three-eq effect on its master bus - Unity has no component for it, not reproduced
+[SomniumAssetto] Audio: event gear_grind has a three-eq effect on its master bus - Unity has no component for it, not reproduced
+[SomniumAssetto] Audio: missing event backfire_ext in ks_toyota_gt86 (sounds.ini has [BACKFIRE])
+[SomniumAssetto] Audio: ks_toyota_gt86 sound set up as local car: 20 event players, 41 sources, 20 engine layers, engine at front, engine_int 3D
+[SomniumAssetto] Audio: event hit has a three-eq effect on its master bus - Unity has no component for it, not reproduced
+[SomniumAssetto] Audio: event scrape has a three-eq effect on its master bus - Unity has no component for it, not reproduced
+[SomniumAssetto] Audio: event gravel has a three-eq effect on its master bus - Unity has no component for it, not reproduced
+[SomniumAssetto] Audio: event kerb has a three-eq effect on its master bus - Unity has no component for it, not reproduced
+[SomniumAssetto] Front: no tablet on the track - the menu panel stands in front of you while you are on foot (logged once).
+[SomniumAssetto] Audio: ks_toyota_gt86 engine sound ready (local)
+[SomniumAssetto] Audio: clips built for ks_toyota_gt86 (31 clips, 38.7 MB, cache hits 0) in 0.3 s
+[SomniumAssetto] Seat: get-in target = the left door of ks_toyota_gt86 (0.91 x 1.43 x 1.25 m, C's door handle).
+[SomniumAssetto] Seat: a car can be got into: click it or press E next to it.
+[SomniumAssetto] Kn5: built toyota_gt86.kn5: 100 renderers, 100831 tris, 0 colliders, 49 textures read (3 from the skin, mips made 46, failed 0), prepare 193 ms, upload 33 ms
+[SomniumAssetto] Kn5: built toyota_gt86_LOD_B.kn5: 75 renderers, 32281 tris, 0 colliders, 0 textures read (0 from the skin, mips made 0, failed 0), prepare 3 ms, upload 9 ms
+[SomniumAssetto] Kn5: built toyota_gt86_LOD_C.kn5: 33 renderers, 11398 tris, 0 colliders, 0 textures read (0 from the skin, mips made 0, failed 0), prepare 1 ms, upload 4 ms
+[SomniumAssetto] Kn5: built toyota_gt86_LOD_D.kn5: 6 renderers, 1480 tris, 0 colliders, 0 textures read (0 from the skin, mips made 0, failed 0), prepare 0 ms, upload 1 ms
+[SomniumAssetto] Kn5: built driver_no_HANS.kn5: 8 renderers, 11282 tris, 0 colliders, 14 textures read (0 from the skin, mips made 12, failed 0), prepare 212 ms, upload 16 ms
+[SomniumAssetto] Car: built ks_toyota_gt86/galaxy_blue LOD 0-3 in 762 ms (worker 269 ms; 175 meshes, 202323 tris, textures 18.4 MB uploaded (33.7 MB in the kn5), hull 1 colliders, doors L/R, steer yes r 0.187, lights 5, needles 0, leds 0, displays 0, blur 8, driver yes (posed 62, skin slots 5), interior no, passenger seat yes, W nodes 174, damage normals flat 7)
+[SomniumAssetto] Physics: rig ks_toyota_gt86 (Ai) built in 772 ms: model True, hull colliders 1, physics True, audio True
+[SomniumAssetto] Audio: ks_toyota_gt86 sound set up as remote/AI car: 8 event players, 18 sources, 20 engine layers, engine at front, engine_int -

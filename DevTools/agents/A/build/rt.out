@@ -1,0 +1,4 @@
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\Net\SceneNetworking.cs(362,67): warning CS0618: 'SimulationMessagePtr' is obsolete: 'Not used anymore'
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\World\AcCooker.cs(65,27): warning CS0618: 'Physics.BakeMesh(int, bool)' is obsolete: 'BakeMesh(int, bool) is obsolete. Use BakeMesh(EntityId, bool) instead.'
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\Race\AcRace.cs(34,29): warning CS0169: The field 'AcRace._noInstallWarned' is never used
+D:\Dreamport\Assetta Corsa\Assets\#User\SomniumAssetto\Game\Net\AcNetGame.Own.cs(20,41): warning CS0414: The field 'AcNetGame._layoutHashOf' is assigned but its value is never used

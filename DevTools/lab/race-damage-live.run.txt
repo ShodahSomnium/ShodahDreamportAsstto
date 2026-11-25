@@ -1,0 +1,122 @@
+lab 'race-damage-live' in slot A (D:\Dreamport\Assetta Corsa)
+unity exit 0 (slot A)
+[SomniumAssetto] Access: editor: the whitelist (6 name(s)) is not applied
+[SomniumAssetto] Assetto Corsa Dreamport - iteration 1 (2026-11-01): first playable build: tablet app, showroom hub, tracks, cars, seat + VR wheel, physics, sound, HUD, race flow, AI, multiplayer
+[SomniumAssetto] Shaders carried: SomniumAssetto/PerPixel, SomniumAssetto/Multilayer, SomniumAssetto/Sky, TextMeshPro/Mobile/Distance Field, TextMeshPro/Distance Field
+[SomniumAssetto] Isolation: up (whitelisted: other whitelisted players): players not on the whitelist (a visitor) are hidden (after 0.5 s, shown after 0 s is on the whitelist (a Dreamport player); first decision at once; renderers forceRenderingOff, tag alpha, colliders, voices volume 0, other sounds muted); warm-up scan of 0 scene(s) 2.04 ms, 0 avatar/item root(s)
+[SomniumAssetto] Editor: no EventSystem in the scene - added one with a StandaloneInputModule.
+[SomniumAssetto] Shader 'Universal Render Pipeline/Lit': Shader.Find
+[SomniumAssetto] Front: the hub's RACE LOBBY page was built in 31 ms.
+[SomniumAssetto] Tablet: searching for the Somnium tablet (the "ASSETTO CORSA" app goes on its home screen; the hub panel stays the menu too).
+[SomniumAssetto] Front: the showroom hub and its menu are up (whitelisted player); the tablet app is searching.
+[SomniumAssetto] Net: started (Fusion session, protocol 3); alone or offline everything stays local
+[SomniumAssetto] Race: conductor up (Assetto Corsa Dreamport - iteration 1 (2026-11-01))
+[SomniumAssetto] Seat: started (seat writes at -90 / 9000 / 10000, monitor avatar carry 9990, poses 9997; vr no; horizon lock on; the Somnium tablet stays usable while seated - B / Y are not ours - and the VR pedals disarm while it is used).
+[SomniumAssetto] Hud: started (waits for the install to load the HUD art)
+[SomniumAssetto] Tags: on - the Somnium name tags of the other Somnium players in this world are hidden while the Dreamport runs, given back when you leave (the Bridge's ISomniumPlayerInfo.SetPlayerTagDisableState - unproven, first used here; fallback ready: the tag's CanvasGroup alpha; re-applied every 1 s; visitors are left to the isolation)
+[SomniumAssetto] Boot: install E:\SteamLibrary\steamapps\common\assettocorsa, 86 owned cars (176 listed), 35 playable layouts (21 tracks; found in 0 ms, scanned in 285 ms)
+[SomniumAssetto] Shader 'TextMeshPro/Mobile/Distance Field': carried
+[SomniumAssetto] Shader 'TextMeshPro/Distance Field': carried
+[SomniumAssetto] Fonts: Segoe UI built from segoeui.ttf, segoeuil_0.ttf, seguisb.ttf from E:\SteamLibrary\steamapps\common\assettocorsa\content\fonts (shader TextMeshPro/Mobile/Distance Field); 144 texts switched to it.
+[SomniumAssetto] Audio: started (car banks from the install, worker thread, 131072 floats/frame upload)
+[SomniumAssetto] Track: time / weather defaults from Documents/Assetto Corsa/cfg/race.ini: SUN_ANGLE -48 (10:00), weather 4_mid_clear
+[SomniumAssetto] Front: audio preloaded and the TRACK / AUDIO settings rows asked for at boot (25 -> 34 rows).
+[SomniumAssetto] Front: hub light from system/cfg/colorCurves.ini (as acShowroom.exe) (boot): sun 3.81,3.69,3.34, ambient 0.94,1.15,1.39, sky 0.21,0.49,0.98/0.78,0.88,1.11, elevation 52 deg.
+[SomniumAssetto] Race: defaults laps 5, qualify 10 min, RACE_OVER_TIME 180 s, ALLOWED_TYRES_OUT 2, ABS 1, TC 1, OVER_TIME_MULT 1.2, QUALIFY_MAX_WAIT_PERC 120, START_RULE 0 -> jump start penalty 0, DAMAGE_MULTIPLIER 100, [PRACTICE] TIME 10 (practice stays open-ended) (server/cfg/server_cfg.ini + server/presets/SERVER_00/server_cfg.ini + system/cfg/assetto_corsa.ini)
+[SomniumAssetto] Physics: damage rules from assetto_corsa.ini damage_displayer.ini engine_smoke.ini server_cfg.ini gameplay.ini: glass threshold 0.65, displayer 4 s / 60 km/h, smoke at 25 % life for 15 s, default multiplier 100 %, displayer on
+[SomniumAssetto] Front: the game's ui read - 558 words (system/locales), skin.ini read, launcher accent 189,0,0,255 (236 uses in the css), assists from C:\Users\derii\Documents\Assetto Corsa\cfg\assists.ini, lobby sliders from launcher/themes/default/index.html (7/7 sliders) (laps 2..100 step 1, minutes 5..90 step 5, AI 80..100 step 1, damage 0..100 step 10, fuel values 0,1, tyre wear values 0,1,2,3)
+[SomniumAssetto] Front: drive choice ferrari_458/00_rosso_scuderia (remembered, race took it)
+[SomniumAssetto] Tablet: the app icon carries the launcher's logo (E:\SteamLibrary\steamapps\common\assettocorsa\launcher\themes\default\graphics\logo.png).
+[SomniumAssetto] Audio: UI sounds from the install (gui_click.wav 44100 Hz 2 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (select2.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (select3.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (negative.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (item.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (bighit.wav 22050 Hz 1 ch first)
+[SomniumAssetto] Audio: UI sounds from the install (camera_click.wav 48000 Hz 2 ch first)
+[SomniumAssetto] Audio: common.bank bank: 29 samples (41.7 MB PCM), events found [collisions/car/hit collisions/car/scrape collisions/object/hit collisions/track/hit collisions/track/scrape common/ambience common/dirt common/ds_protection common/screw common/unscrew surfaces/extraturf surfaces/grass surfaces/gravel surfaces/kerb surfaces/old surfaces/sand surfaces/tyre_rolling], 2 multi instruments, 15 events 3D by their spatialiser, effects [hit: three-eq; scrape: three-eq; dirt: three-eq; gravel: three-eq; kerb: three-eq] in 31 ms
+[SomniumAssetto] Audio: common.bank: 29 samples, 17 events; start beep event:/common/ds_protection (beep), ambience ambient1 (loop region)
+LAB: booted: Assetto Corsa found: E:\SteamLibrary\steamapps\common\assettocorsa  -  86 cars, 35 track layouts
+LAB: ok   layout owned
+LAB: ok   car owned
+[SomniumAssetto] Front: drive choice ferrari_458/00_rosso_scuderia (lab, race took it)
+LAB: ok   F's ChooseCar ferrari_458 (AcLocal.CarId ferrari_458)
+[SomniumAssetto] Front: first menu picture decoded from the install (logo.png, 110x91).
+[SomniumAssetto] Audio: clips built for common.bank (1 clips, 0.0 MB, cache hits 0) in 0.1 s
+[SomniumAssetto] Shader 'SomniumAssetto/PerPixel': carried
+[SomniumAssetto] Hud: art loaded (43 images, fonts: Segoe UI shared with the tablet (segoeui.ttf, segoeuil_0.ttf, seguisb.ttf from E:\SteamLibrary\steamapps\common\assettocorsa\content\fonts (shader TextMeshPro/Mobile/Distance Field)), bitmap arial_big (94 glyphs, 4096x64, max U 0.896); config: 6 files, language en (313 strings), USE_MPH 0, TIME_DIFFERENCE 1)
+[SomniumAssetto] Hud: units km/h (AC gameplay.ini USE_MPH), standings default on ([OVERLAY_LEADERBOARD] ACTIVE 3), session box practice/qualify/race 1/1/1, join/leave messages 1/1
+[SomniumAssetto] Kn5: built showroom.kn5: 7 renderers, 4990 tris, 0 colliders, 4 textures read (0 from the skin, mips made 0, failed 0), prepare 62 ms, upload 213 ms
+[SomniumAssetto] Front: showroom built (content/showroom/showroom/showroom.kn5: 7 renderers, 4 textures, read 544 ms, built 290 ms).
+[SomniumAssetto] Kn5: built ferrari_458.kn5: 189 renderers, 125478 tris, 0 colliders, 70 textures read (5 from the skin, mips made 67, failed 0), prepare 168 ms, upload 70 ms
+[SomniumAssetto] Shader 'Sprites/Default': Shader.Find
+[SomniumAssetto] Car: font 599_big (94 glyphs, 4096x64, max U 0.942) loaded for cockpit displays
+[SomniumAssetto] Car: font e92_big (94 glyphs, 4096x64, max U 0.864) loaded for cockpit displays
+[SomniumAssetto] Car: font e92_mid (94 glyphs, 2048x32, max U 0.864) loaded for cockpit displays
+[SomniumAssetto] Car: font mg (94 glyphs, 2048x32, max U 0.978) loaded for cockpit displays
+[SomniumAssetto] Car: built ferrari_458/00_rosso_scuderia LOD 0 in 353 ms (worker 27 ms; 189 meshes, 125478 tris, textures 45.3 MB uploaded (37.0 MB in the kn5), hull 0 colliders, doors L/R, steer yes r 0.191, lights 6, needles 2, leds 14, displays 4, blur 8, driver no, interior yes, passenger seat yes, W nodes 284, damage normals flat 2)
+[SomniumAssetto] Car: ferrari_458 damage visuals: damage.ini yes, textures off (normals flat 2), glass zones F/R/L/R/C 1/1/2/2/2 nodes (LOD_0), broken-glass meshes hidden: 0 active zone node(s) + 0 stray mesh(es) outside a zone, panels 3 of 3 found (LOD_0), paint renderers 0, oscillations on, initial level 20, scratches 0-20 km/h
+[SomniumAssetto] Physics: rig ferrari_458 (Showroom) built in 510 ms: model True, hull colliders 0, physics False, audio False
+[SomniumAssetto] Front: showroom car ferrari_458/00_rosso_scuderia on the floor.
+[SomniumAssetto] Front: lobby rules seeded from AcRace.DefaultRules (R: server/cfg/server_cfg.ini once the install is read) (Practice, 10 min, damage 100 %, ABS 1, TC 1, tyres out 2, AI 0).
+LAB: lobby draft version 2 (seeded from AcRace.DefaultRules (R: server/cfg/server_cfg.ini once the install is read))
+[SomniumAssetto] Net: race command 1 published (phase 2, track 5bb648a5).
+[SomniumAssetto] Race: command seq 1 Practice magione (Practice, 10 min, damage 100 %, ABS 1, TC 1, tyres out 2, AI 0), master -1
+[SomniumAssetto] Race: load magione (Practice, 10 min, damage 100 %, ABS 1, TC 1, tyres out 2, AI 0) by me
+[SomniumAssetto] Session: Hub -> Loading
+[SomniumAssetto] Loading: magione (Magione) - Practice, 10 min, damage 100 %, ABS 1, TC 1, tyres out 2, AI 0
+[SomniumAssetto] Net: race command seq 1 applied (Practice magione, published by me)
+LAB: ok   RequestLoad magione at DAMAGE 100
+[SomniumAssetto] Track: the scene's directional light(s) switched off while a track is loaded (2, first 'Ac Hub Sun'); Ac Sun lights the track
+[SomniumAssetto] Shader 'SomniumAssetto/Sky': carried
+[SomniumAssetto] Track: look: weather 4_mid_clear, sun pitch 35 heading 240 angle -48 -> elevation 33 deg, sun (5.10,4.22,3.29), ambient (1.56,1.56,1.56), sky (0.10,0.25,0.58)/(0.61,0.64,0.77), fog (0.57,0.74,1.00) blend 0.75 distance 8000 m (time Documents/Assetto Corsa/cfg/race.ini, weather Documents/Assetto Corsa/cfg/race.ini)
+[SomniumAssetto] Track: loading magione: 2 kn5, 963 meshes (701 drawn, 292 colliders, 43 marker cubes hidden, 3 inactive), 82 textures, 3096377 vertices; scan 18 ms
+[SomniumAssetto] Track: markers: 18 grid, 18 pits, gates 2, hotlap yes, start lights 4, fast lane 1754 points 2456 m, pit lane 819 points, pole progress 0.9979
+[SomniumAssetto] Shader 'SomniumAssetto/Multilayer': carried
+[SomniumAssetto] Track: start lights 4 (KS_START_LIGHT_0..3), emissive 2,0,0 diffuse 0.3, lamp 0 (1 panel(s)) 49 m from the pole, ahead-dot 1.00, faces the pole 0.99
+[SomniumAssetto] Track: built magione in 0.6 s (701 meshes, 2039602 tris, 82 textures 157 MB, mesh data 121 MB, 292 colliders, 80 walls, surfaces matched 212/unmatched 0, LOD-managed 460, mips made 73, shadows kn5 castShadows; worker 555 ms, cooking baked off the main thread: 292, worst frame so far 0 ms, managed heap 131 -> 300 MB)
+[SomniumAssetto] Track: ready magione: worst frame after 1 s 0 ms (), allocated 766 -> 1162 MB, graphics driver 396 MB, track needs far plane 6000 m, player camera not found yet
+[SomniumAssetto] Race: timing circuit, 2 gate(s) (2 sectors), fast lane 1754 points, 2456 m, pit lane by IS_PITLANE surfaces
+[SomniumAssetto] Race: track built in 0.6 s, my pit box 0 (of 18), grid 18 slots (pole before the line), hotlap start yes, start lights 4, crew side 1
+[SomniumAssetto] Race: damage textures ON for cars built from now on (DAMAGE_MULTIPLIER 100 %, cars.visualdamage on)
+[SomniumAssetto] Audio: track surfaces' sounds requested at track load (6 surfaces with a common.bank event)
+[SomniumAssetto] Shaders: broken-glass crack map loaded from the install (1024x1024)
+[SomniumAssetto] Kn5: built ferrari_458.kn5: 189 renderers, 125478 tris, 0 colliders, 72 textures read (5 from the skin, mips made 69, failed 0), prepare 354 ms, upload 86 ms
+[SomniumAssetto] Car: font 599_big (94 glyphs, 4096x64, max U 0.942) loaded for cockpit displays
+[SomniumAssetto] Car: font e92_big (94 glyphs, 4096x64, max U 0.864) loaded for cockpit displays
+[SomniumAssetto] Car: font e92_mid (94 glyphs, 2048x32, max U 0.864) loaded for cockpit displays
+[SomniumAssetto] Car: font mg (94 glyphs, 2048x32, max U 0.978) loaded for cockpit displays
+[SomniumAssetto] Car: built ferrari_458/00_rosso_scuderia LOD 0 in 498 ms (worker 31 ms; 189 meshes, 125478 tris, textures 52.0 MB uploaded (37.0 MB in the kn5), hull 1 colliders, doors L/R, steer yes r 0.191, lights 6, needles 2, leds 14, displays 4, blur 8, driver no, interior yes, passenger seat yes, W nodes 284, damage normals flat 0)
+[SomniumAssetto] Car: ferrari_458 damage visuals: damage.ini yes, textures ON, glass zones F/R/L/R/C 1/1/2/2/2 nodes (LOD_0), broken-glass meshes hidden: 0 active zone node(s) + 0 stray mesh(es) outside a zone, panels 3 of 3 found (LOD_0), paint renderers 10, oscillations on, initial level 20, scratches 0-20 km/h
+[SomniumAssetto] Physics: ferrari_458 damage box from the hull: centre (0.00, 0.20, 0.33) size (2.32, 1.19, 4.60)
+[SomniumAssetto] Physics: ferrari_458 wheels drawn at the physics hubs: travel offsets LF/RF/LR/RR 3/3/13/13 mm; static CG 0.425 m vs -GRAPHICS_OFFSET.y 0.450
+[SomniumAssetto] Physics: ferrari_458 spec: mass 1578 kg + 30 l fuel, inertia box 1.84x1x4.01, CG height 0.450 m, RWD, 7 gears (3.077 2.158 1.626 1.286 1.028 0.839 0.69), final 5.14, limiter 9200, steer lock 360/ratio 11.9, tyre Semislicks DX/DY 1.3/1.28 R 0.324/0.357, turbos 0, aero wings 3, problems 0
+[SomniumAssetto] Physics: ferrari_458 local setup: 0 garage values applied; aids ABS 2 TC 2 auto-shift True auto-clutch False auto-blip False; rates fuel 100 % tyre wear 100 %
+[SomniumAssetto] Physics: rig ferrari_458 (Local) built in 515 ms: model True, hull colliders 1, physics True, audio True
+[SomniumAssetto] Race: my car ferrari_458 (00_rosso_scuderia) ready in 0.5 s at pit box 0 (71.1, 5.5, -75.7)
+[SomniumAssetto] Race: player NOT moved beside the car (pit box 0, editor: nothing to move)
+[SomniumAssetto] Session: Loading -> Practice
+[SomniumAssetto] Shader 'Universal Render Pipeline/Unlit': Shader.Find
+[SomniumAssetto] Loading: done - fading into magione.
+[SomniumAssetto] Hub: hidden.
+[SomniumAssetto] Audio: ferrari_458 bank: 49 samples (50.1 MB PCM), engine_int 23 layers, engine_ext 10 layers, events found [bodywork door engine_ext engine_int gear_ext gear_int horn skid_ext skid_int tractioncontrol_ext tractioncontrol_int wheel wind], 12 events 3D by their spatialiser, effects [engine_ext: lowpass~Event Cone Angle, FMOD Distance Filter; engine_int: FMOD Distortion~rpms, three-eq; tractioncontrol_int: three-eq], routed into the common.bank mixer groups in 3 ms; sounds.ini: ferrari_458: engine rear, skids entry 0.5 mix 0.65, backfire gas<0.4 after >0.8 6500-12000 rpm, limiter 9200, track-camera scales gear_ext 5 backfire out 5 (not used: car-camera rule)
+[SomniumAssetto] Audio: event tractioncontrol_int has a three-eq effect on its master bus - Unity has no component for it, not reproduced
+[SomniumAssetto] Audio: missing event limiter in ferrari_458
+[SomniumAssetto] Audio: missing event backfire_ext in ferrari_458 (sounds.ini has [BACKFIRE])
+[SomniumAssetto] Audio: ferrari_458 sound set up as local car: 19 event players, 54 sources, 33 engine layers, engine at rear, engine_int 3D
+[SomniumAssetto] Audio: event hit has a three-eq effect on its master bus - Unity has no component for it, not reproduced
+[SomniumAssetto] Audio: event scrape has a three-eq effect on its master bus - Unity has no component for it, not reproduced
+[SomniumAssetto] Audio: event gravel has a three-eq effect on its master bus - Unity has no component for it, not reproduced
+[SomniumAssetto] Audio: event kerb has a three-eq effect on its master bus - Unity has no component for it, not reproduced
+[SomniumAssetto] Seat: get-in target = the left door of ferrari_458 (1.03 x 1.19 x 1.25 m, C's door handle).
+[SomniumAssetto] Seat: a car can be got into: click it or press E next to it.
+[SomniumAssetto] Front: no tablet on the track - the menu panel stands in front of you while you are on foot (logged once).
+[SomniumAssetto] Audio: ferrari_458 engine sound ready (local)
+[SomniumAssetto] Physics: ferrari_458 driven: substeps 7 at fixedDeltaTime 0.0200 (350 Hz), TOTALMASS 1578 kg + fuel, inertia box 1.84x1.00x4.01 set by hand, centre of mass at the root, static CG height 0.425 m
+[SomniumAssetto] Race: pit lane entered (first time; limiter 80 km/h, ours)
+[SomniumAssetto] Race: pit limiter on (80 km/h, ours - AC has no limit key)
+[SomniumAssetto] Audio: clips built for ferrari_458 (46 clips, 96.6 MB, cache hits 0) in 0.3 s
+LAB: live-dmg: roll pristine max 34 km/h, flutter voice volume 0.0000, zones F/R/L/R/C 0/0/0/0/0
+[SomniumAssetto] Race: back to pits -> pit box 0
+[SomniumAssetto] Race: player NOT moved beside the car (back to pits, editor: nothing to move)
+LAB: ok   BACK TO PITS after roll 0

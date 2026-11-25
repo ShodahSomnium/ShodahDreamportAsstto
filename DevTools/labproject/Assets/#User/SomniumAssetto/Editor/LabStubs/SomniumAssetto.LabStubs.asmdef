@@ -1,0 +1,16 @@
+{
+    "name": "SomniumAssetto.LabStubs",
+    "rootNamespace": "SomniumSpace.Worlds.SomniumAssetto.LabStubs",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
